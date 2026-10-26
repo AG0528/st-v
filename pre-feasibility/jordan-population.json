@@ -1,0 +1,5746 @@
+{
+ "meta": {
+  "country": "JO",
+  "source_ar": "دائرة الإحصاءات العامة الأردنية — التقديرات السكانية لنهاية عام 2025 حسب التجمع السكاني",
+  "source_en": "Department of Statistics, Jordan — Population Estimates at the End of 2025, by Locality",
+  "source_url": "https://dosweb.dos.gov.jo/DataBank/Population/Population_Estimares/PopulationEstimatesbyLocality.pdf",
+  "reference_date": "2025-12-31",
+  "published": "2026-01",
+  "basis": "Estimates based on the 2015 census (Aqaba governorate: 2024 census). To be replaced when the ongoing census results are adopted.",
+  "kingdom_total": 11937000,
+  "notes": {
+   "partial_city": "Qasabah Amman District includes only parts of Amman City, so its figure is not the population of the whole city.",
+   "no_neighbourhood_data": "The Department publishes no official figures below locality level."
+  }
+ },
+ "governorates": [
+  {
+   "ar": "العاصمة (عمّان)",
+   "en": "Amman",
+   "nominatim": "Amman Governorate, Jordan",
+   "aliases": [
+    "Amman Governorate",
+    "Amman Capital Governorate",
+    "Capital Governorate",
+    "Amman",
+    "محافظة العاصمة",
+    "العاصمة",
+    "عمان",
+    "عمّان"
+   ],
+   "population": 5004600,
+   "districts": [
+    {
+     "ar": "لواء قصبة عمان",
+     "en": "Qasabah Amman District",
+     "population": 1068915,
+     "localities": [
+      {
+       "ar": "العبدلي",
+       "en": "Alabdaly",
+       "population": 206468
+      },
+      {
+       "ar": "رأس العين",
+       "en": "Ras Alain",
+       "population": 172364
+      },
+      {
+       "ar": "المدينة",
+       "en": "Almadina",
+       "population": 43693
+      },
+      {
+       "ar": "زهران",
+       "en": "Zahran",
+       "population": 134282
+      },
+      {
+       "ar": "اليرموك",
+       "en": "Alyarmok",
+       "population": 225749
+      },
+      {
+       "ar": "بدر",
+       "en": "Bader",
+       "population": 286359
+      }
+     ],
+     "note": "partial_city"
+    },
+    {
+     "ar": "لواء ماركا",
+     "en": "Marka District",
+     "population": 1193985,
+     "localities": [
+      {
+       "ar": "طارق",
+       "en": "Tareq",
+       "population": 218783
+      },
+      {
+       "ar": "ماركا",
+       "en": "Marka",
+       "population": 184948
+      },
+      {
+       "ar": "النصر",
+       "en": "Alnaser",
+       "population": 323226
+      },
+      {
+       "ar": "بسمان",
+       "en": "Basman",
+       "population": 467028
+      }
+     ]
+    },
+    {
+     "ar": "لواء القويسمة",
+     "en": "Quaismeh District",
+     "population": 727625,
+     "localities": [
+      {
+       "ar": "القويسمة والجويدة وأبو علندا والرجيب",
+       "en": "Alquaismeh, Aljwaydeh, Abu Alanda, Alrajeeb",
+       "population": 370598
+      },
+      {
+       "ar": "خريبة السوق وجاوا واليادودة",
+       "en": "Khraibet Essooq, Jawa, Yadoodeh",
+       "population": 232474
+      },
+      {
+       "ar": "أم قصير والمقابلين",
+       "en": "Um Qsair, Moqabaleen",
+       "population": 124553
+      }
+     ]
+    },
+    {
+     "ar": "لواء الجامعة",
+     "en": "Al-Jami'ah District",
+     "population": 929085,
+     "localities": [
+      {
+       "ar": "الجبيهة",
+       "en": "Jbaiha",
+       "population": 246214
+      },
+      {
+       "ar": "صويلح",
+       "en": "Swaileh",
+       "population": 188589
+      },
+      {
+       "ar": "تلاع العلي وخلدا وأم السماق",
+       "en": "Tla'a Alali, Khelda, Um Essommaq",
+       "population": 313450
+      },
+      {
+       "ar": "إسكان أبو نصير",
+       "en": "Eskan Abu Nsair",
+       "population": 90525
+      },
+      {
+       "ar": "شفا بدران",
+       "en": "Shafa Badran",
+       "population": 90307
+      }
+     ]
+    },
+    {
+     "ar": "لواء وادي السير",
+     "en": "Wadi Essier District",
+     "population": 458770,
+     "localities": [
+      {
+       "ar": "وادي السير",
+       "en": "Wadi Essier",
+       "population": 301997
+      },
+      {
+       "ar": "بدر الجديدة",
+       "en": "Badr Jadeda",
+       "population": 22342
+      },
+      {
+       "ar": "مرج الحمام",
+       "en": "Marj Elhamam",
+       "population": 103385
+      },
+      {
+       "ar": "البصة",
+       "en": "Bassa",
+       "population": 10806
+      },
+      {
+       "ar": "عراق الأمير",
+       "en": "Eraq Elamir",
+       "population": 5035
+      },
+      {
+       "ar": "أبو السوس",
+       "en": "Abu Essoos",
+       "population": 910
+      },
+      {
+       "ar": "البحاث",
+       "en": "Bahath",
+       "population": 521
+      },
+      {
+       "ar": "الألمانية والقصبات",
+       "en": "Almaniyyeh, Qasabat",
+       "population": 2426
+      },
+      {
+       "ar": "الرجاحة",
+       "en": "Rajaha",
+       "population": 1402
+      },
+      {
+       "ar": "الثغرة",
+       "en": "Thograh",
+       "population": 205
+      },
+      {
+       "ar": "الحامدية",
+       "en": "Hamdeih",
+       "population": 867
+      },
+      {
+       "ar": "وادي الشتاء",
+       "en": "Wadi Eshta",
+       "population": 739
+      },
+      {
+       "ar": "الطبقة",
+       "en": "Tabaqa",
+       "population": 1231
+      },
+      {
+       "ar": "الدبة",
+       "en": "Dabbeh",
+       "population": 691
+      },
+      {
+       "ar": "أم نجاصة",
+       "en": "Um Njasa",
+       "population": 959
+      },
+      {
+       "ar": "الفحص",
+       "en": "Fahs",
+       "population": 426
+      },
+      {
+       "ar": "النعير",
+       "en": "N'air",
+       "population": 2199
+      },
+      {
+       "ar": "الدير",
+       "en": "Dair",
+       "population": 2629
+      }
+     ]
+    },
+    {
+     "ar": "لواء سحاب",
+     "en": "Sahab District",
+     "population": 211590,
+     "localities": [
+      {
+       "ar": "سحاب",
+       "en": "Sahab",
+       "population": 211590
+      }
+     ]
+    },
+    {
+     "ar": "لواء الجيزة",
+     "en": "Jizah District",
+     "population": 147365,
+     "subdistricts": [
+      {
+       "ar": "قضاء الجيزة",
+       "en": "Jizah Sub-District",
+       "population": 130085,
+       "localities": [
+        {
+         "ar": "الجيزة",
+         "en": "Jizeh",
+         "population": 118697
+        },
+        {
+         "ar": "ضبعة",
+         "en": "Dab'ah",
+         "population": 1949
+        },
+        {
+         "ar": "الزميلة",
+         "en": "Zmaileh",
+         "population": 4056
+        },
+        {
+         "ar": "الخالدية",
+         "en": "Kaldeh",
+         "population": 850
+        },
+        {
+         "ar": "الخريم",
+         "en": "Khrayyem",
+         "population": 1
+        },
+        {
+         "ar": "خان الزبيب",
+         "en": "Khan El-Zabib",
+         "population": 10
+        },
+        {
+         "ar": "الذرة",
+         "en": "Tharah",
+         "population": 71
+        },
+        {
+         "ar": "حمام الطلاق",
+         "en": "Hammam El-Tallaq",
+         "population": 1295
+        },
+        {
+         "ar": "حمام الشموط",
+         "en": "Hammam El-Shmoot",
+         "population": 3156
+        }
+       ]
+      },
+      {
+       "ar": "قضاء أم الرصاص",
+       "en": "Um Al-Rasas Sub-District",
+       "population": 17280,
+       "localities": [
+        {
+         "ar": "أم الرصاص",
+         "en": "Um Rsas",
+         "population": 887
+        },
+        {
+         "ar": "الرامة",
+         "en": "Ramah",
+         "population": 2869
+        },
+        {
+         "ar": "الرميل",
+         "en": "Ramil",
+         "population": 1028
+        },
+        {
+         "ar": "طور الحشاش",
+         "en": "Toar Hashash",
+         "population": 641
+        },
+        {
+         "ar": "سالية",
+         "en": "Salyeh",
+         "population": 1517
+        },
+        {
+         "ar": "الداخمي",
+         "en": "Damkhi",
+         "population": 2080
+        },
+        {
+         "ar": "الياهون",
+         "en": "Yahoon",
+         "population": 745
+        },
+        {
+         "ar": "عليان",
+         "en": "Elayyan",
+         "population": 448
+        },
+        {
+         "ar": "رجم عقاب",
+         "en": "Rojom Aeqab",
+         "population": 779
+        },
+        {
+         "ar": "مجيل",
+         "en": "Jmayal",
+         "population": 1505
+        },
+        {
+         "ar": "الثرى",
+         "en": "Thrayya",
+         "population": 137
+        },
+        {
+         "ar": "المشريفة",
+         "en": "Mshairfah",
+         "population": 1423
+        },
+        {
+         "ar": "رجم فهيد",
+         "en": "Rojom Fhaid",
+         "population": 486
+        },
+        {
+         "ar": "أبو حليليفة",
+         "en": "Abu Hlaileefah",
+         "population": 894
+        },
+        {
+         "ar": "المصيطبة",
+         "en": "Msaitbah",
+         "population": 1143
+        },
+        {
+         "ar": "البحريات (منشية السواريه)",
+         "en": "Buhairat (Mansheat Elsuareah)",
+         "population": 698
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء الموقر",
+     "en": "Muaqqar District",
+     "population": 105360,
+     "subdistricts": [
+      {
+       "ar": "قضاء الموقر",
+       "en": "Muaqqar Sub-District",
+       "population": 59635,
+       "localities": [
+        {
+         "ar": "الموقر",
+         "en": "Mowaqqar",
+         "population": 8815
+        },
+        {
+         "ar": "النقيرة",
+         "en": "Naqera",
+         "population": 4707
+        },
+        {
+         "ar": "الفيصلية",
+         "en": "Feisaliyyeh",
+         "population": 15327
+        },
+        {
+         "ar": "مغاير مهنا",
+         "en": "Mghayer Mhanna",
+         "population": 3667
+        },
+        {
+         "ar": "الذهيبة الشرقية",
+         "en": "Dhaibeh Sharqiyyeh",
+         "population": 7306
+        },
+        {
+         "ar": "المنشية",
+         "en": "Manshiyyeh",
+         "population": 3764
+        },
+        {
+         "ar": "أم بطمة",
+         "en": "Um Botmah",
+         "population": 6252
+        },
+        {
+         "ar": "الحاتمية",
+         "en": "Hatmeia",
+         "population": 3402
+        },
+        {
+         "ar": "غزالة",
+         "en": "Ghazaleh",
+         "population": 692
+        },
+        {
+         "ar": "روضة الحسين النموذجية",
+         "en": "Raudet Hussen Namuthajeh",
+         "population": 311
+        },
+        {
+         "ar": "الحنيفية",
+         "en": "Hunaifiyyeh",
+         "population": 588
+        },
+        {
+         "ar": "الفاجل (الرابية)",
+         "en": "Falej (Rabyyeh)",
+         "population": 172
+        },
+        {
+         "ar": "الزميلات",
+         "en": "Zmailat",
+         "population": 2586
+        },
+        {
+         "ar": "المطبة (المصطبة)",
+         "en": "Mastabah (Matabah)",
+         "population": 333
+        },
+        {
+         "ar": "الجناب",
+         "en": "Jnab",
+         "population": 1713
+        }
+       ]
+      },
+      {
+       "ar": "قضاء رجم الشامي",
+       "en": "Rajm al-Shami Sub-District",
+       "population": 45725,
+       "localities": [
+        {
+         "ar": "رجم الشامي الغربي",
+         "en": "Rojom Shami Gharbi",
+         "population": 13152
+        },
+        {
+         "ar": "سالم",
+         "en": "Salem",
+         "population": 15756
+        },
+        {
+         "ar": "الهاشمية",
+         "en": "Hashimeyyah",
+         "population": 983
+        },
+        {
+         "ar": "رجم الشامي الشرقي",
+         "en": "Rojom Shami Sharqi",
+         "population": 5286
+        },
+        {
+         "ar": "الذهيبة الغربية",
+         "en": "Dhaibeh Gharbiyyeh",
+         "population": 8320
+        },
+        {
+         "ar": "اللسين",
+         "en": "Laseen",
+         "population": 807
+        },
+        {
+         "ar": "الماجدية (زابره)",
+         "en": "Majedeah (Zabarah)",
+         "population": 498
+        },
+        {
+         "ar": "الكتيفة",
+         "en": "Ktafeh",
+         "population": 923
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء ناعور",
+     "en": "Na'oor District",
+     "population": 161905,
+     "subdistricts": [
+      {
+       "ar": "قضاء ناعور",
+       "en": "Na'oor Sub-District",
+       "population": 98640,
+       "localities": [
+        {
+         "ar": "ناعور",
+         "en": "Na'oor",
+         "population": 40382
+        },
+        {
+         "ar": "العدسية",
+         "en": "Adasiyyeh",
+         "population": 2549
+        },
+        {
+         "ar": "المنشية وأم القطين",
+         "en": "Manshiyyeh, Um El-Qottain",
+         "population": 4048
+        },
+        {
+         "ar": "تركي",
+         "en": "Torky",
+         "population": 4786
+        },
+        {
+         "ar": "أدبيان",
+         "en": "Adbayan",
+         "population": 2421
+        },
+        {
+         "ar": "المنصورة",
+         "en": "Mansoorah",
+         "population": 4891
+        },
+        {
+         "ar": "أم السماق",
+         "en": "Um El-Sumaq",
+         "population": 23768
+        },
+        {
+         "ar": "بصة ناعور",
+         "en": "Basset Na'oor",
+         "population": 2289
+        },
+        {
+         "ar": "سيل حسبان",
+         "en": "Sail Hesban",
+         "population": 2305
+        },
+        {
+         "ar": "العامرية",
+         "en": "Amireah",
+         "population": 1535
+        },
+        {
+         "ar": "بلعاس",
+         "en": "Bal'as",
+         "population": 2801
+        },
+        {
+         "ar": "زبود",
+         "en": "Zbood",
+         "population": 2930
+        },
+        {
+         "ar": "أبو نقلة",
+         "en": "Abu Naqlah",
+         "population": 2487
+        },
+        {
+         "ar": "العجاجرة",
+         "en": "Ajajreh",
+         "population": 734
+        },
+        {
+         "ar": "العويلية",
+         "en": "Ewailiyyeh",
+         "population": 714
+        }
+       ]
+      },
+      {
+       "ar": "قضاء أم البساتين",
+       "en": "Um Elbasatien Sub-District",
+       "population": 24375,
+       "localities": [
+        {
+         "ar": "أم البساتين",
+         "en": "Um El-Basatien",
+         "population": 10707
+        },
+        {
+         "ar": "السامك",
+         "en": "Samek",
+         "population": 4253
+        },
+        {
+         "ar": "أم العساكر",
+         "en": "Um El-Asaker",
+         "population": 2018
+        },
+        {
+         "ar": "أم الكندم",
+         "en": "Um El-Kindam",
+         "population": 2745
+        },
+        {
+         "ar": "أم البرك",
+         "en": "Um El-Berak",
+         "population": 3849
+        },
+        {
+         "ar": "ماسوح",
+         "en": "Masooh",
+         "population": 803
+        }
+       ]
+      },
+      {
+       "ar": "قضاء حسبان",
+       "en": "Hosba'n Sub-District",
+       "population": 38890,
+       "localities": [
+        {
+         "ar": "حسبان",
+         "en": "Hesban",
+         "population": 5907
+        },
+        {
+         "ar": "الروضة",
+         "en": "Rawdhah",
+         "population": 12859
+        },
+        {
+         "ar": "المشقر",
+         "en": "Mshkar",
+         "population": 6906
+        },
+        {
+         "ar": "العال",
+         "en": "El-A'al",
+         "population": 7344
+        },
+        {
+         "ar": "منشية حسبان",
+         "en": "Manshiyyet Hesban",
+         "population": 2726
+        },
+        {
+         "ar": "كرمة حسبان",
+         "en": "Karmet Hesban",
+         "population": 3148
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "البلقاء",
+   "en": "Balqa",
+   "nominatim": "Balqa Governorate, Jordan",
+   "aliases": [
+    "Balqa Governorate",
+    "Al Balqa",
+    "Al-Balqa Governorate",
+    "Balqa",
+    "محافظة البلقاء",
+    "البلقاء"
+   ],
+   "population": 614000,
+   "districts": [
+    {
+     "ar": "لواء قصبة السلط",
+     "en": "Qasabah Salt District",
+     "population": 189955,
+     "subdistricts": [
+      {
+       "ar": "قضاء السلط",
+       "en": "Salt Sub-District",
+       "population": 132220,
+       "localities": [
+        {
+         "ar": "اليزيدية",
+         "en": "Yazeediyyeh",
+         "population": 1803
+        },
+        {
+         "ar": "وادي الناقة",
+         "en": "Wadi Ennaqah",
+         "population": 682
+        },
+        {
+         "ar": "أم خروبة",
+         "en": "Um Kharubah",
+         "population": 877
+        },
+        {
+         "ar": "وادي الصحن",
+         "en": "Wadi Essahn",
+         "population": 91
+        },
+        {
+         "ar": "وادي الحور",
+         "en": "Wadi Elhoor",
+         "population": 4036
+        },
+        {
+         "ar": "السلط",
+         "en": "Salt",
+         "population": 124731
+        }
+       ]
+      },
+      {
+       "ar": "قضاء العارضة",
+       "en": "Al-Ardha Sub-District",
+       "population": 19535,
+       "localities": [
+        {
+         "ar": "الصبيحي",
+         "en": "Sbaihi",
+         "population": 9283
+        },
+        {
+         "ar": "بيوضة الشرقية",
+         "en": "Bayyoodah Sharqiyyeh",
+         "population": 1213
+        },
+        {
+         "ar": "سيحان",
+         "en": "Siehan",
+         "population": 1953
+        },
+        {
+         "ar": "عليقون",
+         "en": "Elaiqoon",
+         "population": 506
+        },
+        {
+         "ar": "بيوضة الغربية",
+         "en": "Bayyoodah Gharbiyyeh",
+         "population": 576
+        },
+        {
+         "ar": "بيوضة الشمالية",
+         "en": "Bayyoodah Shamaliyyeh",
+         "population": 438
+        },
+        {
+         "ar": "خشفة",
+         "en": "Khashfeh",
+         "population": 719
+        },
+        {
+         "ar": "جريش",
+         "en": "Jarriesh",
+         "population": 975
+        },
+        {
+         "ar": "العزب",
+         "en": "Azab",
+         "population": 231
+        },
+        {
+         "ar": "قصيب",
+         "en": "Qsaib",
+         "population": 564
+        },
+        {
+         "ar": "البويب",
+         "en": "Bwaib",
+         "population": 405
+        },
+        {
+         "ar": "الحقاوة",
+         "en": "Haqawah",
+         "population": 1210
+        },
+        {
+         "ar": "ميسرا",
+         "en": "Maisarah",
+         "population": 1341
+        },
+        {
+         "ar": "الضريسات",
+         "en": "Dhraissat",
+         "population": 121
+        }
+       ]
+      },
+      {
+       "ar": "قضاء علان وزي",
+       "en": "Allan & Zayy Sub-District",
+       "population": 24290,
+       "localities": [
+        {
+         "ar": "علان",
+         "en": "Allan",
+         "population": 8306
+        },
+        {
+         "ar": "زي",
+         "en": "Zayy",
+         "population": 5262
+        },
+        {
+         "ar": "الرميمين",
+         "en": "Rmemen",
+         "population": 4354
+        },
+        {
+         "ar": "أم جوزة",
+         "en": "Um Jauzeh",
+         "population": 5084
+        },
+        {
+         "ar": "الوسيّة",
+         "en": "Waseah",
+         "population": 583
+        },
+        {
+         "ar": "سوميا",
+         "en": "Soomia",
+         "population": 360
+        },
+        {
+         "ar": "المشريفة",
+         "en": "Msherfah",
+         "population": 341
+        }
+       ]
+      },
+      {
+       "ar": "قضاء عيرا ويرقا",
+       "en": "Ira & Yargha Sub-District",
+       "population": 13910,
+       "localities": [
+        {
+         "ar": "يرقا",
+         "en": "Yarqha",
+         "population": 8826
+        },
+        {
+         "ar": "عيرا",
+         "en": "Ira",
+         "population": 5084
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء الشونة الجنوبية",
+     "en": "Janoobiyah Shoonah District",
+     "population": 65825,
+     "localities": [
+      {
+       "ar": "الشونة الجنوبية",
+       "en": "Shoonah Janoobiyah",
+       "population": 3605
+      },
+      {
+       "ar": "الشونة الجديدة (السكنة)",
+       "en": "Shoonah Jadideh (Sokneh)",
+       "population": 5826
+      },
+      {
+       "ar": "الكرامة",
+       "en": "Karamah",
+       "population": 13885
+      },
+      {
+       "ar": "الروضة",
+       "en": "Roudhah",
+       "population": 13752
+      },
+      {
+       "ar": "الرامة",
+       "en": "Ramah",
+       "population": 10268
+      },
+      {
+       "ar": "الكفرين",
+       "en": "Kafrain",
+       "population": 2620
+      },
+      {
+       "ar": "جوفة الكفرين",
+       "en": "Joafet El-Kafrain",
+       "population": 10845
+      },
+      {
+       "ar": "سومية",
+       "en": "Swaimeh",
+       "population": 5024
+      }
+     ]
+    },
+    {
+     "ar": "لواء دير علا",
+     "en": "Dair Alla District",
+     "population": 91750,
+     "localities": [
+      {
+       "ar": "دير علا",
+       "en": "Dair Alla",
+       "population": 9142
+      },
+      {
+       "ar": "الطوال الجنوبي",
+       "en": "Twal Janoobi",
+       "population": 15809
+      },
+      {
+       "ar": "معدي",
+       "en": "M'addi",
+       "population": 6051
+      },
+      {
+       "ar": "ضرار",
+       "en": "Dherar",
+       "population": 14367
+      },
+      {
+       "ar": "مثلث العارضة",
+       "en": "Muthallath El-Ardhah",
+       "population": 2888
+      },
+      {
+       "ar": "داميا",
+       "en": "Damia",
+       "population": 1821
+      },
+      {
+       "ar": "الطوال الشمالي",
+       "en": "Twal Shamali",
+       "population": 4971
+      },
+      {
+       "ar": "خزمة",
+       "en": "Khazma",
+       "population": 1929
+      },
+      {
+       "ar": "الدبب",
+       "en": "Debab",
+       "population": 3841
+      },
+      {
+       "ar": "الروحية",
+       "en": "Rwaihah",
+       "population": 4408
+      },
+      {
+       "ar": "أبو الزيغان",
+       "en": "Abu Ezzighan",
+       "population": 769
+      },
+      {
+       "ar": "ظهرة الرمل",
+       "en": "Dhahret Erramel",
+       "population": 3920
+      },
+      {
+       "ar": "البالونة",
+       "en": "Balaooneh",
+       "population": 9278
+      },
+      {
+       "ar": "غور كبد",
+       "en": "Ghour Kebed",
+       "population": 6959
+      },
+      {
+       "ar": "ميسرة فنوش",
+       "en": "Maisarat Fannosh",
+       "population": 4358
+      },
+      {
+       "ar": "مثلث المصري",
+       "en": "Muthallath El-Masri",
+       "population": 1239
+      }
+     ]
+    },
+    {
+     "ar": "لواء عين الباشا",
+     "en": "Ain Albasha District",
+     "population": 220680,
+     "localities": [
+      {
+       "ar": "عين الباشا",
+       "en": "Ain Albasha",
+       "population": 75161
+      },
+      {
+       "ar": "صافوط",
+       "en": "Safoot",
+       "population": 14232
+      },
+      {
+       "ar": "أم الدنانير",
+       "en": "Um Edananier",
+       "population": 1141
+      },
+      {
+       "ar": "قرية أبو نصير",
+       "en": "Karet Abu Nsair",
+       "population": 9249
+      },
+      {
+       "ar": "موبص",
+       "en": "Moobes",
+       "population": 10653
+      },
+      {
+       "ar": "الشوحي الغربي",
+       "en": "Shewahi El-Gharbi",
+       "population": 4920
+      },
+      {
+       "ar": "السليحي",
+       "en": "Saleehi",
+       "population": 1444
+      },
+      {
+       "ar": "سلحوب",
+       "en": "Salhoob",
+       "population": 3721
+      },
+      {
+       "ar": "أم نجاصة",
+       "en": "Um Njasah",
+       "population": 1241
+      },
+      {
+       "ar": "السحلولية",
+       "en": "Sahlooliyyeh",
+       "population": 1179
+      },
+      {
+       "ar": "الرمان",
+       "en": "Romman",
+       "population": 2482
+      },
+      {
+       "ar": "أبو حامد",
+       "en": "Abu Hamed",
+       "population": 863
+      },
+      {
+       "ar": "الجعيدية",
+       "en": "Jaidiyyeh",
+       "population": 397
+      },
+      {
+       "ar": "البقعة",
+       "en": "Baq'ah",
+       "population": 85931
+      },
+      {
+       "ar": "الحنو",
+       "en": "Heno",
+       "population": 7590
+      },
+      {
+       "ar": "أم سنديانة",
+       "en": "Um Sendyaneh",
+       "population": 476
+      }
+     ]
+    },
+    {
+     "ar": "لواء ماحص والفحيص",
+     "en": "Fuhais & Mahes District",
+     "population": 45790,
+     "localities": [
+      {
+       "ar": "الفحيص",
+       "en": "Fuhais",
+       "population": 23620
+      },
+      {
+       "ar": "ماحص",
+       "en": "Mahes",
+       "population": 22170
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "الزرقاء",
+   "en": "Zarqa",
+   "nominatim": "Zarqa Governorate, Jordan",
+   "aliases": [
+    "Zarqa Governorate",
+    "Zarqa",
+    "محافظة الزرقاء",
+    "الزرقاء"
+   ],
+   "population": 1704500,
+   "districts": [
+    {
+     "ar": "لواء قصبة الزرقاء",
+     "en": "Qasabah Zarqa District",
+     "population": 1001895,
+     "subdistricts": [
+      {
+       "ar": "قضاء الزرقاء",
+       "en": "Zarqa Sub-District",
+       "population": 810345,
+       "localities": [
+        {
+         "ar": "الطافح",
+         "en": "Tafeh",
+         "population": 2682
+        },
+        {
+         "ar": "الركبان",
+         "en": "Rukban",
+         "population": 974
+        },
+        {
+         "ar": "خو",
+         "en": "Khou",
+         "population": 5
+        },
+        {
+         "ar": "مدينة الشرق",
+         "en": "Madenat Al-Sharq",
+         "population": 13475
+        },
+        {
+         "ar": "الزرقاء",
+         "en": "Zarqa",
+         "population": 793209
+        }
+       ]
+      },
+      {
+       "ar": "قضاء بيرين",
+       "en": "Bierain Sub-District",
+       "population": 30825,
+       "localities": [
+        {
+         "ar": "بيرين",
+         "en": "Bierain",
+         "population": 3658
+        },
+        {
+         "ar": "أم رمانة",
+         "en": "Um Rommaneh",
+         "population": 2270
+        },
+        {
+         "ar": "الكمشة",
+         "en": "Kamshah",
+         "population": 2655
+        },
+        {
+         "ar": "العلوك",
+         "en": "Alook",
+         "population": 1506
+        },
+        {
+         "ar": "صروت",
+         "en": "Sarroot",
+         "population": 2443
+        },
+        {
+         "ar": "مرحب",
+         "en": "Merheb",
+         "population": 2845
+        },
+        {
+         "ar": "رجم الشوك",
+         "en": "Rojom Eshoak",
+         "population": 1592
+        },
+        {
+         "ar": "الناصرية",
+         "en": "Naseryah",
+         "population": 2205
+        },
+        {
+         "ar": "المكمان",
+         "en": "Mekman",
+         "population": 468
+        },
+        {
+         "ar": "المسرة الشرقية",
+         "en": "Masarrah Sharqiyyeh",
+         "population": 774
+        },
+        {
+         "ar": "المسرة الغربية",
+         "en": "Masarrah Gharbiyyeh",
+         "population": 783
+        },
+        {
+         "ar": "الماخذات",
+         "en": "Makhethat",
+         "population": 26
+        },
+        {
+         "ar": "الخلة",
+         "en": "Khalleh",
+         "population": 849
+        },
+        {
+         "ar": "مقام عيسى",
+         "en": "Maqam Isa",
+         "population": 1966
+        },
+        {
+         "ar": "عين صابر",
+         "en": "Ain Saber",
+         "population": 1947
+        },
+        {
+         "ar": "البرية",
+         "en": "Biereh",
+         "population": 845
+        },
+        {
+         "ar": "الرياض",
+         "en": "Reyad",
+         "population": 1209
+        },
+        {
+         "ar": "السحارة",
+         "en": "Saharah",
+         "population": 102
+        },
+        {
+         "ar": "العويلية",
+         "en": "Ewailiyyeh",
+         "population": 184
+        },
+        {
+         "ar": "وادي الصوان",
+         "en": "Wadi Esswan",
+         "population": 457
+        },
+        {
+         "ar": "أم الفطاير",
+         "en": "Um El-Fat'ier",
+         "population": 95
+        },
+        {
+         "ar": "عين الحوايا",
+         "en": "Ain El-Hawaya",
+         "population": 346
+        },
+        {
+         "ar": "أم خشيبة",
+         "en": "Um Khashibeh",
+         "population": 387
+        },
+        {
+         "ar": "أم البيار",
+         "en": "Um El-Byar",
+         "population": 1213
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الضليل",
+       "en": "Dhlail Sub-District",
+       "population": 95790,
+       "localities": [
+        {
+         "ar": "الضليل",
+         "en": "Dhlail",
+         "population": 63605
+        },
+        {
+         "ar": "قصر الحلابات الشرقي",
+         "en": "Qaser Hallabat El-Sharqi",
+         "population": 3928
+        },
+        {
+         "ar": "قصر الحلابات الغربي",
+         "en": "Qaser Hallabat El-Gharbi",
+         "population": 6375
+        },
+        {
+         "ar": "الدهيثم",
+         "en": "Dhaythem",
+         "population": 503
+        },
+        {
+         "ar": "سايح ذياب",
+         "en": "Sayeh Diab",
+         "population": 915
+        },
+        {
+         "ar": "مزارع الحلابات",
+         "en": "Mazari'e El-Hallabat",
+         "population": 1500
+        },
+        {
+         "ar": "مخيم الإمارات (مريجيب الفهود)",
+         "en": "Mukhayyam AL-Emirat (Mrayjeeb Al-fhoud)",
+         "population": 18964
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الأزرق",
+       "en": "Azraq Sub-District",
+       "population": 64935,
+       "localities": [
+        {
+         "ar": "الأزرق الشمالي",
+         "en": "Shamali Azraq",
+         "population": 12347
+        },
+        {
+         "ar": "الأزرق الجنوبي",
+         "en": "Janoobi Azraq",
+         "population": 7326
+        },
+        {
+         "ar": "العمري",
+         "en": "Omari",
+         "population": 1043
+        },
+        {
+         "ar": "عين البيضاء",
+         "en": "Ain El-Baidha",
+         "population": 417
+        },
+        {
+         "ar": "قاعدة سلاح الجو (موفق السلطي)",
+         "en": "Qaedat Selah Jaw (Moafaq Salti)",
+         "population": 161
+        },
+        {
+         "ar": "مخيم الأزرق (المخيزن الغربية)",
+         "en": "Mukhayyam Azraq (Almkhayzen Al-gharbeih)",
+         "population": 43641
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء الرصيفة",
+     "en": "Russeifa District",
+     "population": 601810,
+     "localities": [
+      {
+       "ar": "الرصيفة",
+       "en": "Russeifa",
+       "population": 590201
+      },
+      {
+       "ar": "أبو صياح",
+       "en": "Abu Saiah",
+       "population": 11609
+      }
+     ]
+    },
+    {
+     "ar": "لواء الهاشمية",
+     "en": "Hashemiyah District",
+     "population": 100795,
+     "localities": [
+      {
+       "ar": "الهاشمية",
+       "en": "Hashemiyah",
+       "population": 55858
+      },
+      {
+       "ar": "السخنة",
+       "en": "Sokhneh",
+       "population": 25842
+      },
+      {
+       "ar": "أبو الزيغان",
+       "en": "Abu Ezziegan",
+       "population": 5941
+      },
+      {
+       "ar": "دوقرة",
+       "en": "Doqarah",
+       "population": 3663
+      },
+      {
+       "ar": "عين النمرة",
+       "en": "Ain El-Nemreh",
+       "population": 236
+      },
+      {
+       "ar": "غريسة",
+       "en": "Ghraiseh",
+       "population": 1550
+      },
+      {
+       "ar": "أم الصليح",
+       "en": "Um Essalleeh",
+       "population": 4232
+      },
+      {
+       "ar": "القنية",
+       "en": "Qnayyeh",
+       "population": 964
+      },
+      {
+       "ar": "ضبعان",
+       "en": "Dab'an",
+       "population": 1281
+      },
+      {
+       "ar": "طواحين العدوان",
+       "en": "Tawahien Adwan",
+       "population": 190
+      },
+      {
+       "ar": "الحصب",
+       "en": "Hasab",
+       "population": 305
+      },
+      {
+       "ar": "الرحيل",
+       "en": "Rahayal",
+       "population": 733
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "مادبا",
+   "en": "Madaba",
+   "nominatim": "Madaba Governorate, Jordan",
+   "aliases": [
+    "Madaba Governorate",
+    "Madaba",
+    "مادبا",
+    "محافظة مادبا"
+   ],
+   "population": 236200,
+   "districts": [
+    {
+     "ar": "لواء قصبة مادبا",
+     "en": "Qasabah Madaba District",
+     "population": 190730,
+     "subdistricts": [
+      {
+       "ar": "قضاء مادبا",
+       "en": "Madaba Sub-District",
+       "population": 159200,
+       "localities": [
+        {
+         "ar": "المأمونية",
+         "en": "Ma'moneia",
+         "population": 11639
+        },
+        {
+         "ar": "الفيحاء",
+         "en": "Fayha'a",
+         "population": 2824
+        },
+        {
+         "ar": "الواحة (مريجمة الحامد)",
+         "en": "Wah (Mrejmet El-Hamed)",
+         "population": 327
+        },
+        {
+         "ar": "الهلالية (الفالحة)",
+         "en": "Hilaleyeh (Falha)",
+         "population": 4887
+        },
+        {
+         "ar": "حوية البالونة",
+         "en": "Hwayyet El-Balouneh",
+         "population": 719
+        },
+        {
+         "ar": "الجبيل",
+         "en": "Jubail",
+         "population": 949
+        },
+        {
+         "ar": "الخطابية",
+         "en": "Khatabiyyeh",
+         "population": 2422
+        },
+        {
+         "ar": "الخالدية (أبو أزقل)",
+         "en": "Khaldeyyeh (Abu Ezqal)",
+         "population": 3898
+        },
+        {
+         "ar": "مادبا",
+         "en": "Madaba",
+         "population": 131535
+        }
+       ]
+      },
+      {
+       "ar": "قضاء جرينة",
+       "en": "Jrainah Sub-District",
+       "population": 12005,
+       "localities": [
+        {
+         "ar": "جرينة",
+         "en": "Jrainah",
+         "population": 5801
+        },
+        {
+         "ar": "غرناطة",
+         "en": "Ghernatah",
+         "population": 2062
+        },
+        {
+         "ar": "العريش",
+         "en": "Ariesh",
+         "population": 2155
+        },
+        {
+         "ar": "الوسيّة",
+         "en": "Wasiyyeh",
+         "population": 1861
+        },
+        {
+         "ar": "أبو ردينة",
+         "en": "Abu Rdaineh",
+         "population": 126
+        }
+       ]
+      },
+      {
+       "ar": "قضاء ماعين",
+       "en": "Maeen Sub-District",
+       "population": 11315,
+       "localities": [
+        {
+         "ar": "ماعين",
+         "en": "Maeen",
+         "population": 7765
+        },
+        {
+         "ar": "منشية ماعين",
+         "en": "Manshiyyet Maeen",
+         "population": 3331
+        },
+        {
+         "ar": "حمامات ماعين",
+         "en": "Hamamat Maeen",
+         "population": 27
+        },
+        {
+         "ar": "زرقاء ماعين",
+         "en": "Zarqa Maeen",
+         "population": 185
+        },
+        {
+         "ar": "عين الذيب",
+         "en": "Ain Eddieb",
+         "population": 7
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الفيصلية",
+       "en": "Faisaliah Sub-District",
+       "population": 8210,
+       "localities": [
+        {
+         "ar": "الفيصلية",
+         "en": "Faisaliah",
+         "population": 7807
+        },
+        {
+         "ar": "صياغة",
+         "en": "Syaghah",
+         "population": 6
+        },
+        {
+         "ar": "عيون موسى",
+         "en": "Oyoon Moosa",
+         "population": 6
+        },
+        {
+         "ar": "اللبّة",
+         "en": "Libbeh",
+         "population": 297
+        },
+        {
+         "ar": "المخيط",
+         "en": "Mkhait",
+         "population": 94
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء ذيبان",
+     "en": "Dieban District",
+     "population": 45470,
+     "subdistricts": [
+      {
+       "ar": "قضاء ذيبان",
+       "en": "Dieban Sub-District",
+       "population": 18160,
+       "localities": [
+        {
+         "ar": "ذيبان",
+         "en": "Dieban",
+         "population": 8956
+        },
+        {
+         "ar": "الصفا",
+         "en": "Safa",
+         "population": 486
+        },
+        {
+         "ar": "المشرفة",
+         "en": "Mesherfeh",
+         "population": 451
+        },
+        {
+         "ar": "العالية",
+         "en": "Alyeh",
+         "population": 2673
+        },
+        {
+         "ar": "فلحة",
+         "en": "Falha",
+         "population": 474
+        },
+        {
+         "ar": "أم شجيرة الشرقية",
+         "en": "Um Shjaireh Sharqiyyeh",
+         "population": 207
+        },
+        {
+         "ar": "أم شجيرة الغربية",
+         "en": "Um Shjaireh Gharbiyyeh",
+         "population": 74
+        },
+        {
+         "ar": "الريحانة (أم شجرة)",
+         "en": "Rehaneih (Um Shajarah)",
+         "population": 32
+        },
+        {
+         "ar": "عراعر",
+         "en": "Ara'er",
+         "population": 40
+        },
+        {
+         "ar": "الذهيبة الغربية",
+         "en": "Dhaibeh Gharbiyyeh",
+         "population": 560
+        },
+        {
+         "ar": "المثلوثة",
+         "en": "Mathlootheh",
+         "population": 338
+        },
+        {
+         "ar": "النهضة (أم زابرة)",
+         "en": "Annahda (Um Zabarah)",
+         "population": 69
+        },
+        {
+         "ar": "المنشية",
+         "en": "Manshiyyeh",
+         "population": 213
+        },
+        {
+         "ar": "برزة",
+         "en": "Barzah",
+         "population": 710
+        },
+        {
+         "ar": "القاسمية",
+         "en": "Qasmeia",
+         "population": 423
+        },
+        {
+         "ar": "الشقيق",
+         "en": "Shqaiq",
+         "population": 1789
+        },
+        {
+         "ar": "القبيبة",
+         "en": "Qbaibeh",
+         "population": 104
+        },
+        {
+         "ar": "الحنو والسكرانة",
+         "en": "Heno & Sakraneh",
+         "population": 117
+        },
+        {
+         "ar": "ذهيبة الشرقية",
+         "en": "Dhaibeh Sharqiyyeh",
+         "population": 140
+        },
+        {
+         "ar": "وادي الموجب",
+         "en": "Wadi El-Mujeb",
+         "population": 257
+        },
+        {
+         "ar": "مقعد بن نصر الله",
+         "en": "Meq'ad Ben Nasrallah",
+         "population": 47
+        }
+       ]
+      },
+      {
+       "ar": "قضاء العريض",
+       "en": "Areedh Sub-District",
+       "population": 4535,
+       "localities": [
+        {
+         "ar": "العريض",
+         "en": "Areedh",
+         "population": 500
+        },
+        {
+         "ar": "البقيع (القباعي)",
+         "en": "Bake'a (Kuba'i)",
+         "population": 51
+        },
+        {
+         "ar": "الهاشمية (أم حصاص)",
+         "en": "Hashemiyyeh (Um Hsas)",
+         "population": 110
+        },
+        {
+         "ar": "عطروز",
+         "en": "Atrooz",
+         "population": 112
+        },
+        {
+         "ar": "المحمدية",
+         "en": "Muhamadeh",
+         "population": 40
+        },
+        {
+         "ar": "الزهراء",
+         "en": "Azzahra",
+         "population": 190
+        },
+        {
+         "ar": "النامية",
+         "en": "Namyeh",
+         "population": 312
+        },
+        {
+         "ar": "القريات",
+         "en": "Qrayyat",
+         "population": 330
+        },
+        {
+         "ar": "مكاور",
+         "en": "Makawer",
+         "population": 327
+        },
+        {
+         "ar": "الدير",
+         "en": "Dair",
+         "population": 955
+        },
+        {
+         "ar": "بلوطة",
+         "en": "Balotah",
+         "population": 481
+        },
+        {
+         "ar": "الجديدة",
+         "en": "Jadedah",
+         "population": 536
+        },
+        {
+         "ar": "الزينة",
+         "en": "Zayna",
+         "population": 84
+        },
+        {
+         "ar": "النصيب",
+         "en": "Nasieb",
+         "population": 57
+        },
+        {
+         "ar": "الجروان (العامرة)",
+         "en": "Jarwan (Amerah)",
+         "population": 450
+        }
+       ]
+      },
+      {
+       "ar": "قضاء مليح",
+       "en": "Mlaih Sub-District",
+       "population": 22775,
+       "localities": [
+        {
+         "ar": "مليح",
+         "en": "Mlaih",
+         "population": 10367
+        },
+        {
+         "ar": "لب",
+         "en": "Leb",
+         "population": 6692
+        },
+        {
+         "ar": "دليلة الحمايدة",
+         "en": "Dalielet El-Hamaydeh",
+         "population": 1232
+        },
+        {
+         "ar": "الوالة",
+         "en": "Waleh",
+         "population": 220
+        },
+        {
+         "ar": "نزهة الوالة",
+         "en": "Nozhet El-Waleh",
+         "population": 443
+        },
+        {
+         "ar": "الغدير",
+         "en": "Gadeer",
+         "population": 437
+        },
+        {
+         "ar": "الراشدية",
+         "en": "Rashdeia",
+         "population": 906
+        },
+        {
+         "ar": "الحياض",
+         "en": "Hayyadh",
+         "population": 579
+        },
+        {
+         "ar": "الهيدان",
+         "en": "Hiedan",
+         "population": 79
+        },
+        {
+         "ar": "الخالدية",
+         "en": "Kaldiyyeh",
+         "population": 221
+        },
+        {
+         "ar": "اللسن والربط",
+         "en": "Lusen & Rabt",
+         "population": 456
+        },
+        {
+         "ar": "المنسف (المخرعة)",
+         "en": "Munsaf (Mekher'ah)",
+         "population": 729
+        },
+        {
+         "ar": "العلاقي",
+         "en": "Alaqi",
+         "population": 414
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "إربد",
+   "en": "Irbid",
+   "nominatim": "Irbid Governorate, Jordan",
+   "aliases": [
+    "Irbid Governorate",
+    "Irbid",
+    "محافظة إربد",
+    "اربد",
+    "إربد"
+   ],
+   "population": 2210500,
+   "districts": [
+    {
+     "ar": "لواء قصبة إربد",
+     "en": "Qasabah Irbid District",
+     "population": 923100,
+     "localities": [
+      {
+       "ar": "حوارة",
+       "en": "Howwarah",
+       "population": 29882
+      },
+      {
+       "ar": "كفر يوبا",
+       "en": "Kofor Yooba",
+       "population": 28650
+      },
+      {
+       "ar": "بيت راس",
+       "en": "Bait Ras",
+       "population": 51038
+      },
+      {
+       "ar": "بشرى",
+       "en": "Boshra",
+       "population": 24281
+      },
+      {
+       "ar": "المغير",
+       "en": "Mghayyer",
+       "population": 20667
+      },
+      {
+       "ar": "علعال",
+       "en": "Al'al",
+       "population": 9327
+      },
+      {
+       "ar": "سال",
+       "en": "Sal",
+       "population": 13982
+      },
+      {
+       "ar": "حكما",
+       "en": "Hakama",
+       "population": 19388
+      },
+      {
+       "ar": "سوم",
+       "en": "Soom",
+       "population": 13321
+      },
+      {
+       "ar": "زحر",
+       "en": "Zahar",
+       "population": 9587
+      },
+      {
+       "ar": "بيت إيفا",
+       "en": "Bait Yafa",
+       "population": 15989
+      },
+      {
+       "ar": "فوعرة",
+       "en": "Fo'arah",
+       "population": 6216
+      },
+      {
+       "ar": "دوقرة",
+       "en": "Doaqarah",
+       "population": 10969
+      },
+      {
+       "ar": "جنين الصفا",
+       "en": "Jijjien",
+       "population": 7001
+      },
+      {
+       "ar": "كفر جايز",
+       "en": "Kofor Jayez",
+       "population": 6795
+      },
+      {
+       "ar": "مرو",
+       "en": "Maro",
+       "population": 5664
+      },
+      {
+       "ar": "تقبل",
+       "en": "Teqbel",
+       "population": 1596
+      },
+      {
+       "ar": "كفر رحتا",
+       "en": "Kofor Rahta",
+       "population": 2030
+      },
+      {
+       "ar": "اسعرة",
+       "en": "As'ara",
+       "population": 1823
+      },
+      {
+       "ar": "جمحة",
+       "en": "Jamhah",
+       "population": 4308
+      },
+      {
+       "ar": "انطفة",
+       "en": "Natfeh",
+       "population": 2888
+      },
+      {
+       "ar": "هام",
+       "en": "Ham",
+       "population": 2634
+      },
+      {
+       "ar": "أم الجدايل",
+       "en": "Um El-Jadayel",
+       "population": 2977
+      },
+      {
+       "ar": "حور",
+       "en": "Hoor",
+       "population": 4316
+      },
+      {
+       "ar": "إربد",
+       "en": "Irbid",
+       "population": 627771
+      }
+     ]
+    },
+    {
+     "ar": "لواء الرمثا",
+     "en": "Ramtha District",
+     "population": 297830,
+     "localities": [
+      {
+       "ar": "الرمثا",
+       "en": "Ramtha",
+       "population": 194421
+      },
+      {
+       "ar": "الطرة",
+       "en": "Torrah",
+       "population": 41379
+      },
+      {
+       "ar": "الشجرة",
+       "en": "Shajarah",
+       "population": 34843
+      },
+      {
+       "ar": "عمراوة",
+       "en": "Emrawah",
+       "population": 8939
+      },
+      {
+       "ar": "البويضة",
+       "en": "Bwaidhah",
+       "population": 13505
+      },
+      {
+       "ar": "الذنيبة",
+       "en": "Dnaibeh",
+       "population": 4743
+      }
+     ]
+    },
+    {
+     "ar": "لواء الكورة",
+     "en": "Koorah District",
+     "population": 201680,
+     "localities": [
+      {
+       "ar": "دير أبي سعيد",
+       "en": "Dair Abi Sa'id",
+       "population": 36951
+      },
+      {
+       "ar": "جديتا",
+       "en": "Jdaitta",
+       "population": 23715
+      },
+      {
+       "ar": "كفر الماء",
+       "en": "Kofor El-Ma'",
+       "population": 22376
+      },
+      {
+       "ar": "الأشرفية",
+       "en": "Ashrafiyyeh",
+       "population": 18315
+      },
+      {
+       "ar": "كفر عوان",
+       "en": "Kofor Awan",
+       "population": 16304
+      },
+      {
+       "ar": "كفر أبيل",
+       "en": "Kofor Abil",
+       "population": 14478
+      },
+      {
+       "ar": "سمو",
+       "en": "Sammo",
+       "population": 13895
+      },
+      {
+       "ar": "تبنة",
+       "en": "Tebneh",
+       "population": 11856
+      },
+      {
+       "ar": "بيت إيدس",
+       "en": "Bait Iedes",
+       "population": 9845
+      },
+      {
+       "ar": "كفر راكب",
+       "en": "Kofor Rakeb",
+       "population": 8981
+      },
+      {
+       "ar": "جفين",
+       "en": "Jeffien",
+       "population": 7228
+      },
+      {
+       "ar": "جنين الصفا",
+       "en": "Jenien Essafa",
+       "population": 8197
+      },
+      {
+       "ar": "زمال",
+       "en": "Zmal",
+       "population": 4986
+      },
+      {
+       "ar": "كفركيفيا",
+       "en": "Kofor Kiefia",
+       "population": 1259
+      },
+      {
+       "ar": "أبو القين",
+       "en": "Abu El-Qain",
+       "population": 1381
+      },
+      {
+       "ar": "الرقة",
+       "en": "Roqqah",
+       "population": 458
+      },
+      {
+       "ar": "الصوان",
+       "en": "Sowwan",
+       "population": 40
+      },
+      {
+       "ar": "الرهوة",
+       "en": "Rahwah",
+       "population": 1183
+      },
+      {
+       "ar": "خربة الحاوي",
+       "en": "Kherbet El-Hawi",
+       "population": 7
+      },
+      {
+       "ar": "أرخيم",
+       "en": "Rkhayyem",
+       "population": 214
+      },
+      {
+       "ar": "إسكاين",
+       "en": "Iskayeen",
+       "population": 11
+      }
+     ]
+    },
+    {
+     "ar": "لواء بني كنانة",
+     "en": "Bani Kenanah District",
+     "population": 164585,
+     "localities": [
+      {
+       "ar": "سما الروسان",
+       "en": "Sama El-Roosan",
+       "population": 5882
+      },
+      {
+       "ar": "كفر سوم",
+       "en": "Kofor Soom",
+       "population": 14172
+      },
+      {
+       "ar": "حاتم",
+       "en": "Hatem",
+       "population": 11772
+      },
+      {
+       "ar": "سحم",
+       "en": "Saham",
+       "population": 12009
+      },
+      {
+       "ar": "ملكا",
+       "en": "Malka",
+       "population": 14618
+      },
+      {
+       "ar": "حرثا",
+       "en": "Hartha",
+       "population": 8444
+      },
+      {
+       "ar": "خرجا",
+       "en": "Kharja",
+       "population": 11072
+      },
+      {
+       "ar": "أم قيس",
+       "en": "Um Qais",
+       "population": 7648
+      },
+      {
+       "ar": "سمر",
+       "en": "Samar",
+       "population": 6979
+      },
+      {
+       "ar": "حريما",
+       "en": "Hariema",
+       "population": 7917
+      },
+      {
+       "ar": "يبلا",
+       "en": "Yebla",
+       "population": 9281
+      },
+      {
+       "ar": "الرفيد",
+       "en": "Rfaid",
+       "population": 3710
+      },
+      {
+       "ar": "المنصورة",
+       "en": "Mansoorah",
+       "population": 6871
+      },
+      {
+       "ar": "المخيبة التحتا",
+       "en": "Mkhaibeh El-Tehta",
+       "population": 4542
+      },
+      {
+       "ar": "عقربا",
+       "en": "Aqraba",
+       "population": 5074
+      },
+      {
+       "ar": "حرباص",
+       "en": "Hebras",
+       "population": 7200
+      },
+      {
+       "ar": "الحمة الأردنية (المخيبة الفوقا)",
+       "en": "Hemah Aurdinyah (Mkhaibeh El-Foaqa)",
+       "population": 3500
+      },
+      {
+       "ar": "عزريت",
+       "en": "Azriet",
+       "population": 2138
+      },
+      {
+       "ar": "أبو اللقس",
+       "en": "Abu El-Loqas",
+       "population": 2238
+      },
+      {
+       "ar": "المزيريب",
+       "en": "Mzaireeb",
+       "population": 3593
+      },
+      {
+       "ar": "العشة",
+       "en": "Esheh",
+       "population": 206
+      },
+      {
+       "ar": "برشتا",
+       "en": "Bareshta",
+       "population": 978
+      },
+      {
+       "ar": "اليرموك",
+       "en": "Yarmook",
+       "population": 1028
+      },
+      {
+       "ar": "الخريبة",
+       "en": "Khrayybeh",
+       "population": 2675
+      },
+      {
+       "ar": "أبدر",
+       "en": "Ebder",
+       "population": 5304
+      },
+      {
+       "ar": "القصفة",
+       "en": "Qasfah",
+       "population": 1728
+      },
+      {
+       "ar": "السيلة",
+       "en": "Saileh",
+       "population": 1728
+      },
+      {
+       "ar": "الزوية",
+       "en": "Zaweh",
+       "population": 2278
+      }
+     ]
+    },
+    {
+     "ar": "لواء الأغوار الشمالية",
+     "en": "Shamaliyah Aghwar District",
+     "population": 152760,
+     "localities": [
+      {
+       "ar": "الشونة الشمالية",
+       "en": "Shamaliyah Shooneh",
+       "population": 23503
+      },
+      {
+       "ar": "المشارع",
+       "en": "Mashari'e",
+       "population": 30116
+      },
+      {
+       "ar": "كريمة",
+       "en": "Krayymeh",
+       "population": 27574
+      },
+      {
+       "ar": "وادي الريان",
+       "en": "Wadi El-Raian",
+       "population": 8921
+      },
+      {
+       "ar": "الشيخ حسين",
+       "en": "Shaikh Hussein",
+       "population": 14212
+      },
+      {
+       "ar": "المنشية",
+       "en": "Manshiyyeh",
+       "population": 9483
+      },
+      {
+       "ar": "وقاص",
+       "en": "Waqqas",
+       "population": 7705
+      },
+      {
+       "ar": "العدسية",
+       "en": "Adasiyyeh",
+       "population": 4013
+      },
+      {
+       "ar": "طبقة فحل",
+       "en": "Tabaqat Fahl",
+       "population": 3168
+      },
+      {
+       "ar": "الباقورة",
+       "en": "Baqoorah",
+       "population": 912
+      },
+      {
+       "ar": "وادي العرب",
+       "en": "Wadi El-Arab",
+       "population": 526
+      },
+      {
+       "ar": "أبو سيدو",
+       "en": "Abu Saydo",
+       "population": 9080
+      },
+      {
+       "ar": "سليخات",
+       "en": "Siaikhat",
+       "population": 1355
+      },
+      {
+       "ar": "أبو هابيل",
+       "en": "Abu Habeel",
+       "population": 1844
+      },
+      {
+       "ar": "الزمالية",
+       "en": "Zmaliyyeh",
+       "population": 2012
+      },
+      {
+       "ar": "المرزة",
+       "en": "Marzeh",
+       "population": 1633
+      },
+      {
+       "ar": "أبو زايد",
+       "en": "Abu Ziad",
+       "population": 682
+      },
+      {
+       "ar": "ماجد",
+       "en": "Majed",
+       "population": 418
+      },
+      {
+       "ar": "الساخنة",
+       "en": "Sakhneh",
+       "population": 2546
+      },
+      {
+       "ar": "القرن",
+       "en": "Qarn",
+       "population": 1680
+      },
+      {
+       "ar": "كركمة",
+       "en": "Karkamah",
+       "population": 11
+      },
+      {
+       "ar": "سبيرة",
+       "en": "Sbiereh",
+       "population": 84
+      },
+      {
+       "ar": "الفضيين",
+       "en": "Feddein",
+       "population": 1282
+      }
+     ]
+    },
+    {
+     "ar": "لواء بني عبيد",
+     "en": "Bani Obeid District",
+     "population": 255140,
+     "localities": [
+      {
+       "ar": "الحصن",
+       "en": "Hoson",
+       "population": 43813
+      },
+      {
+       "ar": "النعيمة",
+       "en": "No'ayymeh",
+       "population": 36374
+      },
+      {
+       "ar": "الصريح",
+       "en": "Sarieh",
+       "population": 57447
+      },
+      {
+       "ar": "إيدون",
+       "en": "Aidoon",
+       "population": 73134
+      },
+      {
+       "ar": "كتم",
+       "en": "Ketem",
+       "population": 11029
+      },
+      {
+       "ar": "شطنا",
+       "en": "Shatna",
+       "population": 247
+      },
+      {
+       "ar": "عالية",
+       "en": "Aliah",
+       "population": 1833
+      },
+      {
+       "ar": "مخيم الشهيد عزمي المفتي (الحصن)",
+       "en": "Mukhayyam Shahed Azmi El-Mufti (Hoson)",
+       "population": 31263
+      }
+     ]
+    },
+    {
+     "ar": "لواء المزار الشمالي",
+     "en": "Shamali Mazar District",
+     "population": 97935,
+     "localities": [
+      {
+       "ar": "المزار الشمالي",
+       "en": "Shamali Mazar",
+       "population": 26474
+      },
+      {
+       "ar": "دير يوسف",
+       "en": "Dair Yoosef",
+       "population": 15036
+      },
+      {
+       "ar": "ارحابا",
+       "en": "Rhaba",
+       "population": 15855
+      },
+      {
+       "ar": "عنبة",
+       "en": "Enbeh",
+       "population": 13087
+      },
+      {
+       "ar": "حبكا",
+       "en": "Habka",
+       "population": 5140
+      },
+      {
+       "ar": "جحفية",
+       "en": "Johfiyyeh",
+       "population": 5308
+      },
+      {
+       "ar": "زوبيا",
+       "en": "Zoobya",
+       "population": 5713
+      },
+      {
+       "ar": "صمد",
+       "en": "Samad",
+       "population": 2099
+      },
+      {
+       "ar": "حوفا المزار",
+       "en": "Hoafa El-Mazar",
+       "population": 5201
+      },
+      {
+       "ar": "الزعتره",
+       "en": "Z'atara",
+       "population": 1405
+      },
+      {
+       "ar": "الإبراهيمية (سراس)",
+       "en": "Ibrahimia (Sarras)",
+       "population": 1665
+      },
+      {
+       "ar": "الرحمة",
+       "en": "Rahmeh",
+       "population": 952
+      }
+     ]
+    },
+    {
+     "ar": "لواء الطيبة",
+     "en": "Taybeh District",
+     "population": 64310,
+     "localities": [
+      {
+       "ar": "الطيبة",
+       "en": "Taybeh",
+       "population": 27393
+      },
+      {
+       "ar": "صما",
+       "en": "Samma",
+       "population": 19681
+      },
+      {
+       "ar": "دير السعنة",
+       "en": "Dair Ess'eneh",
+       "population": 10919
+      },
+      {
+       "ar": "مخراب",
+       "en": "Makhraba",
+       "population": 2032
+      },
+      {
+       "ar": "مندح",
+       "en": "Mendah",
+       "population": 2486
+      },
+      {
+       "ar": "زبدة الوسطية",
+       "en": "Zabdah El-Wastiyyeh",
+       "population": 711
+      },
+      {
+       "ar": "علي أبو أبسر",
+       "en": "Ali Abu Abser",
+       "population": 1088
+      }
+     ]
+    },
+    {
+     "ar": "لواء الوسطية",
+     "en": "Wastiyyah District",
+     "population": 53160,
+     "localities": [
+      {
+       "ar": "كفر أسد",
+       "en": "Kofor Asad",
+       "population": 17771
+      },
+      {
+       "ar": "قميم",
+       "en": "Qmaim",
+       "population": 10858
+      },
+      {
+       "ar": "حوفا الوسطية",
+       "en": "Hoafa El-Wastiyyeh",
+       "population": 8846
+      },
+      {
+       "ar": "قم",
+       "en": "Qom",
+       "population": 2840
+      },
+      {
+       "ar": "كفر عان",
+       "en": "Kofor An",
+       "population": 5091
+      },
+      {
+       "ar": "الخراج",
+       "en": "Kharaj",
+       "population": 4879
+      },
+      {
+       "ar": "صيدور",
+       "en": "Saidoor",
+       "population": 2875
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "المفرق",
+   "en": "Mafraq",
+   "nominatim": "Mafraq Governorate, Jordan",
+   "aliases": [
+    "Mafraq Governorate",
+    "Al Mafraq",
+    "Mafraq",
+    "محافظة المفرق",
+    "المفرق"
+   ],
+   "population": 686800,
+   "districts": [
+    {
+     "ar": "لواء قصبة المفرق",
+     "en": "Qasabah Mafraq District",
+     "population": 268835,
+     "subdistricts": [
+      {
+       "ar": "قضاء المفرق",
+       "en": "Mafraq Sub-District",
+       "population": 170560,
+       "localities": [
+        {
+         "ar": "إيدون",
+         "en": "Aidoon",
+         "population": 4364
+        },
+        {
+         "ar": "أم النعام الشرقية",
+         "en": "Um Enna'am Sharqiyyeh",
+         "population": 2537
+        },
+        {
+         "ar": "أم النعام الغربية",
+         "en": "Um Enna'am Gharbiyyeh",
+         "population": 2448
+        },
+        {
+         "ar": "حيان المشرف",
+         "en": "Hayyan El-Meshref",
+         "population": 1876
+        },
+        {
+         "ar": "المزة",
+         "en": "Mazzeh",
+         "population": 2244
+        },
+        {
+         "ar": "الغدير الأبيض",
+         "en": "Ghadier Abyadh",
+         "population": 2276
+        },
+        {
+         "ar": "بويضة الحوامدة",
+         "en": "Bwaidhet El-Hwamdeh",
+         "population": 3358
+        },
+        {
+         "ar": "اسم طيب",
+         "en": "Isem Teeb",
+         "population": 785
+        },
+        {
+         "ar": "رجم سبع الشمالي",
+         "en": "Rojom Essabi'e El-Shamali",
+         "population": 844
+        },
+        {
+         "ar": "الأبرار",
+         "en": "Al-Abrar",
+         "population": 369
+        },
+        {
+         "ar": "ثغرة الجب",
+         "en": "Thoghret El-Jobb",
+         "population": 4206
+        },
+        {
+         "ar": "المفرق",
+         "en": "Mafraq",
+         "population": 145253
+        }
+       ]
+      },
+      {
+       "ar": "قضاء بلعما",
+       "en": "Bal'ama Sub-District",
+       "population": 48780,
+       "localities": [
+        {
+         "ar": "بلعما",
+         "en": "Bal'ama",
+         "population": 21431
+        },
+        {
+         "ar": "الزنية",
+         "en": "Zaniyyeh",
+         "population": 3760
+        },
+        {
+         "ar": "حيان الرويبض الغربي",
+         "en": "Hayyan Rwaibedh Gharbi",
+         "population": 2002
+        },
+        {
+         "ar": "الخربة السمراء (روضة الأمير محمد)",
+         "en": "Kherbeh Samra (Raudit AlAmir Mohamad)",
+         "population": 6985
+        },
+        {
+         "ar": "المزرعة",
+         "en": "Mazra'ah",
+         "population": 4347
+        },
+        {
+         "ar": "النزهة",
+         "en": "Nozhah",
+         "population": 1486
+        },
+        {
+         "ar": "البستان",
+         "en": "Bostan",
+         "population": 791
+        },
+        {
+         "ar": "خريسان",
+         "en": "Khraisan",
+         "population": 398
+        },
+        {
+         "ar": "منشية العليان (الخان)",
+         "en": "Manshiyyet Alaian (Alkhan)",
+         "population": 833
+        },
+        {
+         "ar": "النمرة",
+         "en": "Nemreh",
+         "population": 745
+        },
+        {
+         "ar": "المراجم",
+         "en": "Marajem",
+         "population": 450
+        },
+        {
+         "ar": "حنانة القديمة",
+         "en": "Hamaneh El-Qadiemeh",
+         "population": 37
+        },
+        {
+         "ar": "أم صويونة",
+         "en": "Um Swaiweeneh",
+         "population": 666
+        },
+        {
+         "ar": "حنانة الجديدة",
+         "en": "Hamaneh El-Jadiedeh",
+         "population": 1076
+        },
+        {
+         "ar": "الظاهرية",
+         "en": "Dahreiah",
+         "population": 698
+        },
+        {
+         "ar": "الشريفية",
+         "en": "Shraifiyyeh",
+         "population": 195
+        },
+        {
+         "ar": "حيان الرويبض الشرقي",
+         "en": "Hayyan Rwaibedh Sharqi",
+         "population": 2880
+        }
+       ]
+      },
+      {
+       "ar": "قضاء ارحاب",
+       "en": "Irhab Sub-District",
+       "population": 32715,
+       "localities": [
+        {
+         "ar": "ارحاب",
+         "en": "Irhab",
+         "population": 7068
+        },
+        {
+         "ar": "الدجنية",
+         "en": "Dajaniyyeh",
+         "population": 6762
+        },
+        {
+         "ar": "هويشان",
+         "en": "Hwaishan",
+         "population": 359
+        },
+        {
+         "ar": "المعمرية",
+         "en": "Mo'ammariyyeh",
+         "population": 2305
+        },
+        {
+         "ar": "أم خروبة",
+         "en": "Um Kheroba",
+         "population": 101
+        },
+        {
+         "ar": "بويضة العليمات (بيوضة الشرقية)",
+         "en": "Bwaidhet Elaimat (Bwaidhah Sharqiyyeh)",
+         "population": 1524
+        },
+        {
+         "ar": "البويضة الغربية",
+         "en": "Ghrbiyyeh Bwaidhah",
+         "population": 1180
+        },
+        {
+         "ar": "حمامة العليمات",
+         "en": "Elaimat Hamamet",
+         "population": 262
+        },
+        {
+         "ar": "حمامة العموش",
+         "en": "Omoosh Hamamet",
+         "population": 1040
+        },
+        {
+         "ar": "الدقمسة",
+         "en": "Doqomseh",
+         "population": 919
+        },
+        {
+         "ar": "ندرة",
+         "en": "Nadreh",
+         "population": 869
+        },
+        {
+         "ar": "المدور",
+         "en": "Medwar",
+         "population": 490
+        },
+        {
+         "ar": "أم بطيمة",
+         "en": "Um Btaimeh",
+         "population": 1990
+        },
+        {
+         "ar": "دحل",
+         "en": "Dahal",
+         "population": 1064
+        },
+        {
+         "ar": "الصهاة",
+         "en": "Sahah",
+         "population": 609
+        },
+        {
+         "ar": "حميد",
+         "en": "Hamied",
+         "population": 128
+        },
+        {
+         "ar": "الكرم",
+         "en": "Karm",
+         "population": 696
+        },
+        {
+         "ar": "عين بني حسن",
+         "en": "Ain Bani Hasan",
+         "population": 1943
+        },
+        {
+         "ar": "الزعفرانة",
+         "en": "Zafaraneh",
+         "population": 196
+        },
+        {
+         "ar": "المنيفة",
+         "en": "Mnifa",
+         "population": 194
+        },
+        {
+         "ar": "أبو السوس",
+         "en": "Abu El-Soos",
+         "population": 54
+        },
+        {
+         "ar": "أم حصماصة",
+         "en": "Um Hysmasa",
+         "population": 219
+        },
+        {
+         "ar": "خطلة",
+         "en": "Khatlah",
+         "population": 117
+        },
+        {
+         "ar": "خراب المطوي",
+         "en": "Kharab El-Matwi",
+         "population": 106
+        },
+        {
+         "ar": "عين النبي",
+         "en": "Ain Ennabi",
+         "population": 1563
+        },
+        {
+         "ar": "القدم",
+         "en": "Qadam",
+         "population": 957
+        }
+       ]
+      },
+      {
+       "ar": "قضاء المنشية",
+       "en": "Manshiyah Sub-District",
+       "population": 16780,
+       "localities": [
+        {
+         "ar": "منشية بني حسن",
+         "en": "Manshiyyet Bani Hasan",
+         "population": 15400
+        },
+        {
+         "ar": "دير ورق",
+         "en": "Dair Waraq",
+         "population": 509
+        },
+        {
+         "ar": "أم اللولو",
+         "en": "Um Elloolo",
+         "population": 871
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء البادية الشمالية",
+     "en": "Shamaliyah Badiah District",
+     "population": 135975,
+     "subdistricts": [
+      {
+       "ar": "قضاء الصالحية",
+       "en": "Salhiya Sub-District",
+       "population": 41060,
+       "localities": [
+        {
+         "ar": "الصفاوي",
+         "en": "Safawi",
+         "population": 3172
+        },
+        {
+         "ar": "المنارة",
+         "en": "Manarah",
+         "population": 3705
+        },
+        {
+         "ar": "الصالحية",
+         "en": "Salhiya",
+         "population": 5425
+        },
+        {
+         "ar": "الحميدية",
+         "en": "Hamiediyyeh",
+         "population": 2321
+        },
+        {
+         "ar": "الأشرفية",
+         "en": "Ashrafiyyeh",
+         "population": 2902
+        },
+        {
+         "ar": "البشرية",
+         "en": "Beshriyyeh",
+         "population": 2905
+        },
+        {
+         "ar": "بني هاشم (حمراء السحيم)",
+         "en": "Bani Hashem (Hamra Esahim)",
+         "population": 2818
+        },
+        {
+         "ar": "رحبة ركاد",
+         "en": "Rahbet Rakkad",
+         "population": 2072
+        },
+        {
+         "ar": "روضة الأمير حمزة (حليوة المسارحة)",
+         "en": "Raudit Al-Amir Hamzeh (Hliut Masarha)",
+         "population": 3024
+        },
+        {
+         "ar": "نايفة",
+         "en": "Nayfeh",
+         "population": 2699
+        },
+        {
+         "ar": "زملة الأمير غازي",
+         "en": "Zamlet Al-Amir Ghazi",
+         "population": 4482
+        },
+        {
+         "ar": "السعادة",
+         "en": "Sa'adah",
+         "population": 2284
+        },
+        {
+         "ar": "البستانة",
+         "en": "Bostaneh",
+         "population": 2401
+        },
+        {
+         "ar": "عالية الشويعر",
+         "en": "Aliet El-Shwa'ar",
+         "population": 152
+        },
+        {
+         "ar": "الهاشمية الشرقية",
+         "en": "Hashimiyyeh Sharqiyyeh",
+         "population": 281
+        },
+        {
+         "ar": "منشية خليفة",
+         "en": "Manshiyyet Kalefeh",
+         "population": 311
+        },
+        {
+         "ar": "قاعدة الأمير حسن الجوية",
+         "en": "Qaidat Al-Amir Hassan Aljauiah",
+         "population": 106
+        }
+       ]
+      },
+      {
+       "ar": "قضاء صبحا",
+       "en": "Sabha Sub-District",
+       "population": 23265,
+       "localities": [
+        {
+         "ar": "صبحا",
+         "en": "Sabha",
+         "population": 12797
+        },
+        {
+         "ar": "الدفيانة",
+         "en": "Dafyaneh",
+         "population": 3684
+        },
+        {
+         "ar": "سبع أسير",
+         "en": "Sab'e Aseyar",
+         "population": 2633
+        },
+        {
+         "ar": "كوم الرف",
+         "en": "Koam Erraf",
+         "population": 1736
+        },
+        {
+         "ar": "منشية القبلان",
+         "en": "Manshiyyet Qoblan",
+         "population": 899
+        },
+        {
+         "ar": "الفيصلية",
+         "en": "Feisaliyyeh",
+         "population": 1276
+        },
+        {
+         "ar": "الحرارة",
+         "en": "Harara",
+         "population": 240
+        }
+       ]
+      },
+      {
+       "ar": "قضاء أم الجمال",
+       "en": "Um Al-Jemal Sub-District",
+       "population": 38500,
+       "localities": [
+        {
+         "ar": "أم الجمال",
+         "en": "Um Al-Jemal",
+         "population": 6200
+        },
+        {
+         "ar": "روضة بسمة",
+         "en": "Roadhet Basmah",
+         "population": 14218
+        },
+        {
+         "ar": "الكوم الأحمر",
+         "en": "Koam El-Ahmar",
+         "population": 5085
+        },
+        {
+         "ar": "العاقب",
+         "en": "Aqeb",
+         "population": 2226
+        },
+        {
+         "ar": "عمرة وعميرة",
+         "en": "Amra & Amiereh",
+         "population": 6083
+        },
+        {
+         "ar": "السعيدية",
+         "en": "Sa'iediyyeh",
+         "population": 3624
+        },
+        {
+         "ar": "رسم الحصان",
+         "en": "Rasm El-Hesan",
+         "population": 537
+        },
+        {
+         "ar": "الزهور",
+         "en": "Zuhoor",
+         "population": 177
+        },
+        {
+         "ar": "الرحمات",
+         "en": "Rahmat",
+         "population": 350
+        }
+       ]
+      },
+      {
+       "ar": "قضاء دير الكهف",
+       "en": "Dair Al Kahf Sub-District",
+       "population": 14960,
+       "localities": [
+        {
+         "ar": "دير الكهف",
+         "en": "Dair Al Kahf",
+         "population": 2880
+        },
+        {
+         "ar": "الرفاعيات",
+         "en": "Rfa'iyyat",
+         "population": 2165
+        },
+        {
+         "ar": "روضة الأمير علي بن الحسين (أبو الفرث)",
+         "en": "Roadhet Al-Amir Ali Bin Al-Hussein (Abu Frth)",
+         "population": 1908
+        },
+        {
+         "ar": "الجبية",
+         "en": "Jubbeiah",
+         "population": 1996
+        },
+        {
+         "ar": "دير القن",
+         "en": "Dair El-Qenn",
+         "population": 318
+        },
+        {
+         "ar": "مثناة راجل",
+         "en": "Methnat Rajel",
+         "population": 284
+        },
+        {
+         "ar": "قاسم",
+         "en": "Qasem",
+         "population": 1567
+        },
+        {
+         "ar": "الجدعا",
+         "en": "Jad'ah",
+         "population": 74
+        },
+        {
+         "ar": "تل رماح",
+         "en": "Tal Ermah",
+         "population": 844
+        },
+        {
+         "ar": "أرينبة النعيمات",
+         "en": "Arainbet Enaimat",
+         "population": 155
+        },
+        {
+         "ar": "مدور القن",
+         "en": "Medwer El-Qenn",
+         "population": 483
+        },
+        {
+         "ar": "الثلاج",
+         "en": "Ethlag",
+         "population": 263
+        },
+        {
+         "ar": "خشاع القن",
+         "en": "Khsha' El-Qenn",
+         "population": 424
+        },
+        {
+         "ar": "المنصورة",
+         "en": "Mansoorah",
+         "population": 167
+        },
+        {
+         "ar": "مريجيب",
+         "en": "Mrajeeb",
+         "population": 106
+        },
+        {
+         "ar": "أم حسين",
+         "en": "Um Hussein",
+         "population": 533
+        },
+        {
+         "ar": "المنيصة",
+         "en": "Menyasah",
+         "population": 793
+        }
+       ]
+      },
+      {
+       "ar": "قضاء أم القطين",
+       "en": "Um-Elqotain Sub-District",
+       "population": 18190,
+       "localities": [
+        {
+         "ar": "أم القطين",
+         "en": "Um Elqotain",
+         "population": 8543
+        },
+        {
+         "ar": "خشاع سليتين",
+         "en": "Khsha' Slaiteen",
+         "population": 2651
+        },
+        {
+         "ar": "المكيفتة",
+         "en": "Mkaifteh",
+         "population": 4917
+        },
+        {
+         "ar": "المعزولة",
+         "en": "Ma'zooleh",
+         "population": 317
+        },
+        {
+         "ar": "منشية القنو",
+         "en": "Manshiyyet El-Qhano",
+         "population": 796
+        },
+        {
+         "ar": "غدير الناقة",
+         "en": "Ghadeer El-Naqah",
+         "population": 56
+        },
+        {
+         "ar": "الحسينية",
+         "en": "Husseiniyyeh",
+         "population": 254
+        },
+        {
+         "ar": "العودة",
+         "en": "Oudeh",
+         "population": 656
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء البادية الشمالية الغربية",
+     "en": "Badiah Shamaliyah Gharbiyah District",
+     "population": 271730,
+     "subdistricts": [
+      {
+       "ar": "قضاء البادية الشمالية الغربية",
+       "en": "Badiah Sh.Gh. Sub-District",
+       "population": 146710,
+       "localities": [
+        {
+         "ar": "الزعتري",
+         "en": "Za'tary",
+         "population": 18298
+        },
+        {
+         "ar": "الباعج",
+         "en": "Ba'ej",
+         "population": 8639
+        },
+        {
+         "ar": "أم السرب",
+         "en": "Um Essrab",
+         "population": 5659
+        },
+        {
+         "ar": "المنصورة",
+         "en": "Mansoorah",
+         "population": 7776
+        },
+        {
+         "ar": "الزبيدية",
+         "en": "Zubaidyyeh",
+         "population": 2693
+        },
+        {
+         "ar": "النهضة",
+         "en": "Nahdhah",
+         "population": 2635
+        },
+        {
+         "ar": "منشية السلطة",
+         "en": "Manshiyyet Essoltah",
+         "population": 4746
+        },
+        {
+         "ar": "المفردات",
+         "en": "Meferdat",
+         "population": 1817
+        },
+        {
+         "ar": "حوجية",
+         "en": "Hwaijeh",
+         "population": 1338
+        },
+        {
+         "ar": "روضة الرويعي",
+         "en": "Rodhet Errwai'i",
+         "population": 809
+        },
+        {
+         "ar": "الفحيلية",
+         "en": "Fohayhileh",
+         "population": 585
+        },
+        {
+         "ar": "المشرف",
+         "en": "Meshref",
+         "population": 1151
+        },
+        {
+         "ar": "روضة أبو الهيال",
+         "en": "Rodhet Abu Heyal",
+         "population": 2154
+        },
+        {
+         "ar": "صرة",
+         "en": "Sorrah",
+         "population": 183
+        },
+        {
+         "ar": "مخيم الزعتري",
+         "en": "Mukhayyam Al-Za'tary",
+         "population": 88227
+        }
+       ]
+      },
+      {
+       "ar": "قضاء السرحان",
+       "en": "Serhan Sub-District",
+       "population": 36050,
+       "localities": [
+        {
+         "ar": "سما السرحان",
+         "en": "Serhan Sama",
+         "population": 9618
+        },
+        {
+         "ar": "مغير السرحان",
+         "en": "Serhan Mghayyer",
+         "population": 15231
+        },
+        {
+         "ar": "رابع السرحان",
+         "en": "Serhan Rba'",
+         "population": 2577
+        },
+        {
+         "ar": "جابر السرحان",
+         "en": "Serhan Jaber",
+         "population": 3439
+        },
+        {
+         "ar": "منشية الكعيرب",
+         "en": "Manshiyyet K'aiber",
+         "population": 1354
+        },
+        {
+         "ar": "سميا السرحان",
+         "en": "Serhan Somayya",
+         "population": 392
+        },
+        {
+         "ar": "زملة الطرقي",
+         "en": "Zamlett Atterqi",
+         "population": 731
+        },
+        {
+         "ar": "المطلة",
+         "en": "Matalleh",
+         "population": 1959
+        },
+        {
+         "ar": "الحرفوشية",
+         "en": "Harfosheia",
+         "population": 749
+        }
+       ]
+      },
+      {
+       "ar": "قضاء حوشا",
+       "en": "Hosha Sub-District",
+       "population": 34980,
+       "localities": [
+        {
+         "ar": "حوشا",
+         "en": "Hosha",
+         "population": 3505
+        },
+        {
+         "ar": "الحمراء",
+         "en": "Hamra",
+         "population": 16808
+        },
+        {
+         "ar": "فاع",
+         "en": "Fa'",
+         "population": 3559
+        },
+        {
+         "ar": "الحرش",
+         "en": "Harsh",
+         "population": 2121
+        },
+        {
+         "ar": "بريقا",
+         "en": "Braiqa",
+         "population": 1664
+        },
+        {
+         "ar": "الأكيدر",
+         "en": "Akaidar",
+         "population": 2260
+        },
+        {
+         "ar": "الخناصري",
+         "en": "Khanasri",
+         "population": 1195
+        },
+        {
+         "ar": "السويلمة",
+         "en": "Swailmeh",
+         "population": 2795
+        },
+        {
+         "ar": "المشيرفة",
+         "en": "Mshairfeh",
+         "population": 318
+        },
+        {
+         "ar": "الدندنية",
+         "en": "Dandania",
+         "population": 627
+        },
+        {
+         "ar": "الدرزية",
+         "en": "Darzeah",
+         "population": 128
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الخالدية",
+       "en": "Khaldiyah Sub-District",
+       "population": 53990,
+       "localities": [
+        {
+         "ar": "الخالدية الجديدة",
+         "en": "Khaldiyah Aljadeeda",
+         "population": 26871
+        },
+        {
+         "ar": "المبروكة",
+         "en": "Mabrookah",
+         "population": 9249
+        },
+        {
+         "ar": "المشرفة",
+         "en": "Mshrfeh",
+         "population": 10566
+        },
+        {
+         "ar": "الخالدية القديمة",
+         "en": "Khaldiyah Qademeh",
+         "population": 7304
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء الرويشد",
+     "en": "Rwaished District",
+     "population": 10260,
+     "localities": [
+      {
+       "ar": "الرويشد",
+       "en": "Rwaished",
+       "population": 7851
+      },
+      {
+       "ar": "منشية الغياث",
+       "en": "Manshiyyet El-Gheiath",
+       "population": 2056
+      },
+      {
+       "ar": "صالحية النعيم",
+       "en": "Salheiat Enneim",
+       "population": 107
+      },
+      {
+       "ar": "الروضة (روضة البندان)",
+       "en": "Roadhet (Rodah Bndan)",
+       "population": 68
+      },
+      {
+       "ar": "الفيضة",
+       "en": "Fhaidhah",
+       "population": 72
+      },
+      {
+       "ar": "جسر الرويشد",
+       "en": "Jeser Rwaished",
+       "population": 106
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "جرش",
+   "en": "Jarash",
+   "nominatim": "Jerash Governorate, Jordan",
+   "aliases": [
+    "Jerash Governorate",
+    "Jarash Governorate",
+    "Jerash",
+    "Jarash",
+    "محافظة جرش",
+    "جرش"
+   ],
+   "population": 296000,
+   "districts": [
+    {
+     "ar": "لواء قصبة جرش",
+     "en": "Qasabah Jarash District",
+     "population": 296000,
+     "subdistricts": [
+      {
+       "ar": "قضاء جرش",
+       "en": "Jarash Sub-District",
+       "population": 259715,
+       "localities": [
+        {
+         "ar": "سوف",
+         "en": "Soof",
+         "population": 18448
+        },
+        {
+         "ar": "ساكب",
+         "en": "Sakeb",
+         "population": 14467
+        },
+        {
+         "ar": "كفر خل",
+         "en": "Kofor Khall",
+         "population": 8330
+        },
+        {
+         "ar": "الكتة",
+         "en": "Ketteh",
+         "population": 9888
+        },
+        {
+         "ar": "ريمون",
+         "en": "Raimoon",
+         "population": 9713
+        },
+        {
+         "ar": "بليلا",
+         "en": "Baliela",
+         "population": 7640
+        },
+        {
+         "ar": "قفقفا",
+         "en": "Qafqafa",
+         "population": 7131
+        },
+        {
+         "ar": "نحلة",
+         "en": "Nahleh",
+         "population": 4920
+        },
+        {
+         "ar": "دير الليات",
+         "en": "Dair Elliyyat",
+         "population": 3589
+        },
+        {
+         "ar": "الحدادة",
+         "en": "Hadadeh",
+         "population": 3698
+        },
+        {
+         "ar": "مقبلة",
+         "en": "Meqebleh",
+         "population": 2390
+        },
+        {
+         "ar": "الكفير",
+         "en": "Kfair",
+         "population": 3075
+        },
+        {
+         "ar": "زقريط",
+         "en": "Zaqreet",
+         "population": 1249
+        },
+        {
+         "ar": "الجبارات",
+         "en": "Ejbarat",
+         "population": 6710
+        },
+        {
+         "ar": "عصفور",
+         "en": "Asfoor",
+         "population": 1718
+        },
+        {
+         "ar": "الرشايدة",
+         "en": "Rashaydeh",
+         "population": 3022
+        },
+        {
+         "ar": "أم رامح",
+         "en": "Um Rameh",
+         "population": 129
+        },
+        {
+         "ar": "عنيبة",
+         "en": "Enabeh",
+         "population": 348
+        },
+        {
+         "ar": "جبا",
+         "en": "Jabba",
+         "population": 532
+        },
+        {
+         "ar": "أم الزيتون",
+         "en": "Um Ezzaitoon",
+         "population": 1008
+        },
+        {
+         "ar": "النبي هود",
+         "en": "Nabi Hood",
+         "population": 2224
+        },
+        {
+         "ar": "الحسينيات",
+         "en": "Hasainiyyat",
+         "population": 1393
+        },
+        {
+         "ar": "أم قنطرة",
+         "en": "Um Qontarah",
+         "population": 863
+        },
+        {
+         "ar": "نجدة",
+         "en": "Najdeh",
+         "population": 361
+        },
+        {
+         "ar": "العبارة",
+         "en": "Abarah",
+         "population": 251
+        },
+        {
+         "ar": "جملة",
+         "en": "Jamla",
+         "population": 1674
+        },
+        {
+         "ar": "قريع",
+         "en": "Qraia",
+         "population": 407
+        },
+        {
+         "ar": "دبين",
+         "en": "Dibbeen",
+         "population": 268
+        },
+        {
+         "ar": "الرايشي",
+         "en": "Ryashi",
+         "population": 787
+        },
+        {
+         "ar": "الحازية",
+         "en": "Hazeah",
+         "population": 150
+        },
+        {
+         "ar": "عمامة",
+         "en": "Amamah",
+         "population": 753
+        },
+        {
+         "ar": "الشيخ مفرج",
+         "en": "Shak Mfarrej",
+         "population": 496
+        },
+        {
+         "ar": "الجنيدية (المشيرفة الشرقية)",
+         "en": "Jnaideyyeh (Mshairfeh Sharqiyyeh)",
+         "population": 843
+        },
+        {
+         "ar": "الفيحاء (المشيرفة الوسطى)",
+         "en": "Fayha' (Mshairfeh ElWesta)",
+         "population": 925
+        },
+        {
+         "ar": "المشيرفة الغربية",
+         "en": "Mshairfeh Gharbiyyeh",
+         "population": 2410
+        },
+        {
+         "ar": "مخيم سوف",
+         "en": "Mukhayyam Soof",
+         "population": 15089
+        },
+        {
+         "ar": "مخيم غزة",
+         "en": "Mukhayyam Ghazzeh",
+         "population": 46420
+        },
+        {
+         "ar": "منشية هاشم",
+         "en": "Mashtal Hashem",
+         "population": 13035
+        },
+        {
+         "ar": "جرش",
+         "en": "Jarash",
+         "population": 63361
+        }
+       ]
+      },
+      {
+       "ar": "قضاء المصطبة",
+       "en": "Mastabah Sub-District",
+       "population": 21105,
+       "localities": [
+        {
+         "ar": "المصطبة",
+         "en": "Mastabah",
+         "population": 6099
+        },
+        {
+         "ar": "مرصع",
+         "en": "Mersi'e",
+         "population": 5699
+        },
+        {
+         "ar": "جبة",
+         "en": "Jebbah",
+         "population": 5791
+        },
+        {
+         "ar": "تلعة الرز",
+         "en": "Tal'et Erroz",
+         "population": 2000
+        },
+        {
+         "ar": "الرحمانية",
+         "en": "Rahmaniyyeh",
+         "population": 858
+        },
+        {
+         "ar": "الراية",
+         "en": "Raieh",
+         "population": 658
+        }
+       ]
+      },
+      {
+       "ar": "قضاء برما",
+       "en": "Borma Sub-District",
+       "population": 15180,
+       "localities": [
+        {
+         "ar": "برما",
+         "en": "Borma",
+         "population": 7562
+        },
+        {
+         "ar": "المنصورة (الخشيبة)",
+         "en": "Mansorah (Khshaibeh)",
+         "population": 1536
+        },
+        {
+         "ar": "الجزازة",
+         "en": "Jazzazeh",
+         "population": 1713
+        },
+        {
+         "ar": "المجدل",
+         "en": "Majdal",
+         "population": 542
+        },
+        {
+         "ar": "عليمون",
+         "en": "Alaymoon",
+         "population": 1294
+        },
+        {
+         "ar": "مهتا",
+         "en": "Hamta",
+         "population": 1704
+        },
+        {
+         "ar": "الفوارة",
+         "en": "Fawara",
+         "population": 703
+        },
+        {
+         "ar": "الهونة",
+         "en": "Hooneh",
+         "population": 126
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "عجلون",
+   "en": "Ajloun",
+   "nominatim": "Ajloun Governorate, Jordan",
+   "aliases": [
+    "Ajloun Governorate",
+    "Ajlun Governorate",
+    "Ajloun",
+    "Ajlun",
+    "محافظة عجلون",
+    "عجلون"
+   ],
+   "population": 219900,
+   "districts": [
+    {
+     "ar": "لواء قصبة عجلون",
+     "en": "Qasabah Ajloun District",
+     "population": 172120,
+     "subdistricts": [
+      {
+       "ar": "قضاء عجلون",
+       "en": "Ajloun Sub-District",
+       "population": 101425,
+       "localities": [
+        {
+         "ar": "عنجرة",
+         "en": "Anjarah",
+         "population": 32446
+        },
+        {
+         "ar": "عين جنا",
+         "en": "Ain Janna",
+         "population": 15598
+        },
+        {
+         "ar": "الهاشمية",
+         "en": "Hashemiyyeh",
+         "population": 11875
+        },
+        {
+         "ar": "الوهادنة",
+         "en": "Wahadneh",
+         "population": 8351
+        },
+        {
+         "ar": "حلاوة",
+         "en": "Halawah",
+         "population": 10799
+        },
+        {
+         "ar": "دير الصمادية الشمالي",
+         "en": "Dair Smadiyyeh Shamali",
+         "population": 162
+        },
+        {
+         "ar": "خشيبة الفوقا",
+         "en": "Keshiebeh El-Foqa",
+         "population": 311
+        },
+        {
+         "ar": "الجبل الأخضر",
+         "en": "Gabal Aghder",
+         "population": 1241
+        },
+        {
+         "ar": "الشكارة",
+         "en": "Shkarah",
+         "population": 1705
+        },
+        {
+         "ar": "الفاخرة",
+         "en": "Fakhreh",
+         "population": 287
+        },
+        {
+         "ar": "محنا",
+         "en": "Mehnah",
+         "population": 1194
+        },
+        {
+         "ar": "اشتفينا",
+         "en": "Shtafaina",
+         "population": 847
+        },
+        {
+         "ar": "الطيارة",
+         "en": "Tayyarah",
+         "population": 508
+        },
+        {
+         "ar": "أم الينابيع",
+         "en": "Um El-Yanabie'",
+         "population": 407
+        },
+        {
+         "ar": "الساخنة",
+         "en": "Sakhneh",
+         "population": 361
+        },
+        {
+         "ar": "الحنش",
+         "en": "Hanash",
+         "population": 15
+        },
+        {
+         "ar": "خربة السوق",
+         "en": "Kerbet Essooq",
+         "population": 151
+        },
+        {
+         "ar": "الزراعة",
+         "en": "Zarra'ah",
+         "population": 406
+        },
+        {
+         "ar": "كفر الدرة",
+         "en": "Kofor Eddorrah",
+         "population": 14
+        },
+        {
+         "ar": "أم الخشب",
+         "en": "Um El-Khashab",
+         "population": 100
+        },
+        {
+         "ar": "خلة سالم",
+         "en": "Khelet Salem",
+         "population": 422
+        },
+        {
+         "ar": "الزعتره",
+         "en": "Za'tarah",
+         "population": 189
+        },
+        {
+         "ar": "لستب",
+         "en": "Lasteb",
+         "population": 9
+        },
+        {
+         "ar": "الصفصافة",
+         "en": "Sofsafah",
+         "population": 601
+        },
+        {
+         "ar": "دير الصمادية الجنوبي",
+         "en": "Dair Smadiyyeh Janoobi",
+         "population": 77
+        },
+        {
+         "ar": "الصوان",
+         "en": "Sowwan",
+         "population": 112
+        },
+        {
+         "ar": "خلة وردة",
+         "en": "Khelet Wardeh",
+         "population": 761
+        },
+        {
+         "ar": "عجلون",
+         "en": "Ajlun",
+         "population": 12476
+        }
+       ]
+      },
+      {
+       "ar": "قضاء صخرة",
+       "en": "Sakhrah Sub-District",
+       "population": 43540,
+       "localities": [
+        {
+         "ar": "صخرة",
+         "en": "Sakhrah",
+         "population": 20816
+        },
+        {
+         "ar": "عبين",
+         "en": "Ebbien",
+         "population": 17265
+        },
+        {
+         "ar": "عبلين",
+         "en": "Ebellien",
+         "population": 1777
+        },
+        {
+         "ar": "سامتا",
+         "en": "Samta",
+         "population": 1029
+        },
+        {
+         "ar": "رأس منيف",
+         "en": "Ras Moneef",
+         "population": 2556
+        },
+        {
+         "ar": "دير البرك",
+         "en": "Dair El-Barak",
+         "population": 97
+        }
+       ]
+      },
+      {
+       "ar": "قضاء عرجان",
+       "en": "Orjan Sub-District",
+       "population": 27155,
+       "localities": [
+        {
+         "ar": "عرجان",
+         "en": "Orjan",
+         "population": 8827
+        },
+        {
+         "ar": "ابعون",
+         "en": "Ba'oon",
+         "population": 7325
+        },
+        {
+         "ar": "راسون",
+         "en": "Rasoon",
+         "population": 3230
+        },
+        {
+         "ar": "اوصرة",
+         "en": "Oasarah",
+         "population": 2699
+        },
+        {
+         "ar": "صنعار",
+         "en": "Sena'ar",
+         "population": 1124
+        },
+        {
+         "ar": "المرجم",
+         "en": "Merjam",
+         "population": 2007
+        },
+        {
+         "ar": "عصيم",
+         "en": "Asiem",
+         "population": 1460
+        },
+        {
+         "ar": "بئر الدالية",
+         "en": "Bier Eddalyeh",
+         "population": 483
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء كفرنجة",
+     "en": "Kufranjah District",
+     "population": 47780,
+     "localities": [
+      {
+       "ar": "كفرنجة",
+       "en": "Kufranjah",
+       "population": 38732
+      },
+      {
+       "ar": "راجب",
+       "en": "Rajeb",
+       "population": 2589
+      },
+      {
+       "ar": "بلاص",
+       "en": "Ballas",
+       "population": 2232
+      },
+      {
+       "ar": "السفينة",
+       "en": "Safienh",
+       "population": 1978
+      },
+      {
+       "ar": "الحرث",
+       "en": "Harth",
+       "population": 960
+      },
+      {
+       "ar": "ثغرة زبيد",
+       "en": "Thagret Zebaid",
+       "population": 488
+      },
+      {
+       "ar": "البركة",
+       "en": "Berkeh",
+       "population": 229
+      },
+      {
+       "ar": "أم الرمل",
+       "en": "Um Erramel",
+       "population": 50
+      },
+      {
+       "ar": "العقدة",
+       "en": "Oqdeh",
+       "population": 79
+      },
+      {
+       "ar": "كعب الملول",
+       "en": "Ka'b El-Malol",
+       "population": 443
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "الكرك",
+   "en": "Karak",
+   "nominatim": "Karak Governorate, Jordan",
+   "aliases": [
+    "Karak Governorate",
+    "Al Karak",
+    "Kerak Governorate",
+    "Karak",
+    "Kerak",
+    "محافظة الكرك",
+    "الكرك"
+   ],
+   "population": 395400,
+   "districts": [
+    {
+     "ar": "لواء قصبة الكرك",
+     "en": "Qasabah Karak District",
+     "population": 126600,
+     "localities": [
+      {
+       "ar": "آدر",
+       "en": "Ader",
+       "population": 8135
+      },
+      {
+       "ar": "الشهابية",
+       "en": "Shehabiyyeh",
+       "population": 5536
+      },
+      {
+       "ar": "منشية أبو حمور",
+       "en": "Manshiyyet Abu Hammoor",
+       "population": 8698
+      },
+      {
+       "ar": "الجديدة",
+       "en": "Jadiedh",
+       "population": 4512
+      },
+      {
+       "ar": "راكين",
+       "en": "Rakeen",
+       "population": 5419
+      },
+      {
+       "ar": "العدنانية",
+       "en": "Adnaniyyeh",
+       "population": 6375
+      },
+      {
+       "ar": "الثنية",
+       "en": "Thaniyyeh",
+       "population": 7292
+      },
+      {
+       "ar": "بتري",
+       "en": "Battier",
+       "population": 2169
+      },
+      {
+       "ar": "الغوير",
+       "en": "Ghwair",
+       "population": 3479
+      },
+      {
+       "ar": "مدين",
+       "en": "Median",
+       "population": 2485
+      },
+      {
+       "ar": "سمرا",
+       "en": "Samra",
+       "population": 1235
+      },
+      {
+       "ar": "مرود",
+       "en": "Merwed",
+       "population": 4030
+      },
+      {
+       "ar": "بذان",
+       "en": "Bathan",
+       "population": 267
+      },
+      {
+       "ar": "البقيع",
+       "en": "Baqea",
+       "population": 1058
+      },
+      {
+       "ar": "زحوم",
+       "en": "Zahoom",
+       "population": 3691
+      },
+      {
+       "ar": "المشيرفة",
+       "en": "Mshairfeh",
+       "population": 1401
+      },
+      {
+       "ar": "عينون",
+       "en": "Ainoon",
+       "population": 159
+      },
+      {
+       "ar": "موميا",
+       "en": "Moomia",
+       "population": 508
+      },
+      {
+       "ar": "وادي ابن حماد",
+       "en": "Wadi Ibin Hamad",
+       "population": 240
+      },
+      {
+       "ar": "سكا",
+       "en": "Sakka",
+       "population": 884
+      },
+      {
+       "ar": "الراشدية",
+       "en": "Rashdiyyeh",
+       "population": 2826
+      },
+      {
+       "ar": "الوسية",
+       "en": "Waseiyeh",
+       "population": 3708
+      },
+      {
+       "ar": "المأمونية",
+       "en": "Ma'mooniyyeh",
+       "population": 883
+      },
+      {
+       "ar": "الصالحية",
+       "en": "Salhiyyeh",
+       "population": 964
+      },
+      {
+       "ar": "المحمودية",
+       "en": "Mahmodeyeh",
+       "population": 1270
+      },
+      {
+       "ar": "أم رمانة",
+       "en": "Um Rommaneh",
+       "population": 167
+      },
+      {
+       "ar": "العزيزية",
+       "en": "Azezieh",
+       "population": 870
+      },
+      {
+       "ar": "العبدلية",
+       "en": "Abdaliyyeh",
+       "population": 287
+      },
+      {
+       "ar": "اللجون",
+       "en": "Lajoon",
+       "population": 1376
+      },
+      {
+       "ar": "قريفلة",
+       "en": "Qraifleh",
+       "population": 1064
+      },
+      {
+       "ar": "الحوية",
+       "en": "Houyeh",
+       "population": 3293
+      },
+      {
+       "ar": "كمنة",
+       "en": "Kamnah",
+       "population": 182
+      },
+      {
+       "ar": "المريغة",
+       "en": "Mraighah",
+       "population": 155
+      },
+      {
+       "ar": "الزغيرية",
+       "en": "Zaghairiyyeh",
+       "population": 301
+      },
+      {
+       "ar": "بردى",
+       "en": "Barada",
+       "population": 1449
+      },
+      {
+       "ar": "الكرك",
+       "en": "Karak",
+       "population": 40232
+      }
+     ]
+    },
+    {
+     "ar": "لواء المزار الجنوبي",
+     "en": "Janoobee Mazar District",
+     "population": 118790,
+     "subdistricts": [
+      {
+       "ar": "قضاء المزار",
+       "en": "Mazar Sub-District",
+       "population": 100505,
+       "localities": [
+        {
+         "ar": "المزار الجنوبي",
+         "en": "Janoobee Mazar",
+         "population": 23504
+        },
+        {
+         "ar": "مؤتة",
+         "en": "Mo'tah",
+         "population": 34249
+        },
+        {
+         "ar": "الطيبة",
+         "en": "Tayybeh",
+         "population": 8175
+        },
+        {
+         "ar": "ذات راس",
+         "en": "Ras That",
+         "population": 5439
+        },
+        {
+         "ar": "محي",
+         "en": "Mhiyy",
+         "population": 5361
+        },
+        {
+         "ar": "العراق",
+         "en": "Eraq",
+         "population": 3573
+        },
+        {
+         "ar": "مجرا",
+         "en": "Majra",
+         "population": 973
+        },
+        {
+         "ar": "سول",
+         "en": "Sool",
+         "population": 5196
+        },
+        {
+         "ar": "الهاشمية الجنوبية",
+         "en": "Hashemiyyeh Janoobiyyeh",
+         "population": 2519
+        },
+        {
+         "ar": "العمقة",
+         "en": "Omqah",
+         "population": 847
+        },
+        {
+         "ar": "العينا",
+         "en": "Aina",
+         "population": 40
+        },
+        {
+         "ar": "شقيرا الغربية",
+         "en": "Shqaira El-Gharbiyyeh",
+         "population": 2921
+        },
+        {
+         "ar": "شقيرا الشرقية",
+         "en": "Shqaira El-Sharqiyyeh",
+         "population": 225
+        },
+        {
+         "ar": "الشريفة",
+         "en": "Shariefeh",
+         "population": 145
+        },
+        {
+         "ar": "الدبة",
+         "en": "Dabbeh",
+         "population": 136
+        },
+        {
+         "ar": "الحارثية",
+         "en": "Hartheyyeh",
+         "population": 907
+        },
+        {
+         "ar": "اجحرا",
+         "en": "Ejhara",
+         "population": 418
+        },
+        {
+         "ar": "أم الينابيع",
+         "en": "Um El-Yanabi'e",
+         "population": 24
+        },
+        {
+         "ar": "الحامدية",
+         "en": "Hamediyyeh",
+         "population": 416
+        },
+        {
+         "ar": "أم الخنازير",
+         "en": "Um El-Khanazeer",
+         "population": 11
+        },
+        {
+         "ar": "الجوزة",
+         "en": "Jozeh",
+         "population": 343
+        },
+        {
+         "ar": "الحدبة",
+         "en": "Hadbeh",
+         "population": 430
+        },
+        {
+         "ar": "العيسوية",
+         "en": "Isawaiyyeh",
+         "population": 39
+        },
+        {
+         "ar": "أم الغزلان",
+         "en": "Um El-Ghozlan",
+         "population": 1154
+        },
+        {
+         "ar": "جوير",
+         "en": "Jwair",
+         "population": 225
+        },
+        {
+         "ar": "منشية المزار",
+         "en": "Manshiyyet El-Mazar",
+         "population": 1219
+        },
+        {
+         "ar": "الدابكة",
+         "en": "Dabbakeh",
+         "population": 96
+        },
+        {
+         "ar": "النعيمة",
+         "en": "No'aymeh",
+         "population": 1037
+        },
+        {
+         "ar": "الظاهرية",
+         "en": "Dahriyyeh",
+         "population": 187
+        },
+        {
+         "ar": "الطالبية",
+         "en": "Talbiyyeh",
+         "population": 373
+        },
+        {
+         "ar": "مجيدل",
+         "en": "Mjaidel",
+         "population": 323
+        }
+       ]
+      },
+      {
+       "ar": "قضاء مؤاب",
+       "en": "Mo'aab Sub-District",
+       "population": 18285,
+       "localities": [
+        {
+         "ar": "الحسينية",
+         "en": "Husseiniyyeh",
+         "population": 6698
+        },
+        {
+         "ar": "أم حماط",
+         "en": "Um Hamat",
+         "population": 3437
+        },
+        {
+         "ar": "العمرية",
+         "en": "Omariyyeh",
+         "population": 3847
+        },
+        {
+         "ar": "الخالدية",
+         "en": "Khaldiyyeh",
+         "population": 1948
+        },
+        {
+         "ar": "الفيصلية",
+         "en": "Faisaliyyeh",
+         "population": 2256
+        },
+        {
+         "ar": "القادرية",
+         "en": "Qaderiyyeh",
+         "population": 99
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء القصر",
+     "en": "Qasr District",
+     "population": 36725,
+     "subdistricts": [
+      {
+       "ar": "قضاء القصر",
+       "en": "Qasr Sub-District",
+       "population": 26910,
+       "localities": [
+        {
+         "ar": "القصر",
+         "en": "Qasr",
+         "population": 7652
+        },
+        {
+         "ar": "الربة",
+         "en": "Rabbah",
+         "population": 9003
+        },
+        {
+         "ar": "السماكية",
+         "en": "Smakiyyeh",
+         "population": 1713
+        },
+        {
+         "ar": "الياروت",
+         "en": "Yaroot",
+         "population": 2655
+        },
+        {
+         "ar": "دمنة",
+         "en": "Demnah",
+         "population": 3267
+        },
+        {
+         "ar": "حمود",
+         "en": "Hmood",
+         "population": 355
+        },
+        {
+         "ar": "شيحان",
+         "en": "Sheehan",
+         "population": 818
+        },
+        {
+         "ar": "الروضة",
+         "en": "Rawdah",
+         "population": 1231
+        },
+        {
+         "ar": "الرشايدة",
+         "en": "Rashadeih",
+         "population": 216
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الموجب",
+       "en": "Mowjeb Sub-District",
+       "population": 9815,
+       "localities": [
+        {
+         "ar": "مغير",
+         "en": "Mghayyer",
+         "population": 1901
+        },
+        {
+         "ar": "ريحا",
+         "en": "Riha",
+         "population": 925
+        },
+        {
+         "ar": "مسعر",
+         "en": "Mes'ar",
+         "population": 782
+        },
+        {
+         "ar": "أبو ترابة",
+         "en": "Abu Trabah",
+         "population": 365
+        },
+        {
+         "ar": "الجدعا",
+         "en": "Jada'",
+         "population": 4826
+        },
+        {
+         "ar": "الموجب",
+         "en": "Mowjeb",
+         "population": 81
+        },
+        {
+         "ar": "العالية",
+         "en": "Alyeh",
+         "population": 935
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء الأغوار الجنوبية",
+     "en": "Janoobiyah Aghwar District",
+     "population": 68515,
+     "subdistricts": [
+      {
+       "ar": "قضاء الصافي",
+       "en": "Safi Sub-District",
+       "population": 41845,
+       "localities": [
+        {
+         "ar": "غور الصافي",
+         "en": "Ghawr Safi",
+         "population": 34097
+        },
+        {
+         "ar": "غور فيفا",
+         "en": "Ghawr Faifa",
+         "population": 3739
+        },
+        {
+         "ar": "المعمورة",
+         "en": "Mamorah",
+         "population": 2309
+        },
+        {
+         "ar": "السلماني",
+         "en": "Salmani",
+         "population": 70
+        },
+        {
+         "ar": "الغويبة",
+         "en": "Gwiebeh",
+         "population": 1630
+        }
+       ]
+      },
+      {
+       "ar": "قضاء غور المزرعة",
+       "en": "Ghawr Almazra'a Sub-District",
+       "population": 26670,
+       "localities": [
+        {
+         "ar": "غور المزرعة",
+         "en": "Ghawr Almazra'a",
+         "population": 15441
+        },
+        {
+         "ar": "غور الحديثة",
+         "en": "Ghawr Hadiethah",
+         "population": 6333
+        },
+        {
+         "ar": "غور الذراع",
+         "en": "Ghawr Dra'",
+         "population": 2491
+        },
+        {
+         "ar": "غور عسال",
+         "en": "Ghawr Assal",
+         "population": 722
+        },
+        {
+         "ar": "بليدة المزرعة",
+         "en": "Blaidet Almazra'a",
+         "population": 253
+        },
+        {
+         "ar": "بليدة الحديثة",
+         "en": "Blaidet Hadiethah",
+         "population": 1430
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء عي",
+     "en": "Ayy District",
+     "population": 10180,
+     "localities": [
+      {
+       "ar": "عي",
+       "en": "Ayy",
+       "population": 5023
+      },
+      {
+       "ar": "كثربا",
+       "en": "Kathrabba",
+       "population": 3325
+      },
+      {
+       "ar": "جوزا",
+       "en": "Joza",
+       "population": 1832
+      }
+     ]
+    },
+    {
+     "ar": "لواء فقوع",
+     "en": "Faqo'e District",
+     "population": 20985,
+     "localities": [
+      {
+       "ar": "فقوع",
+       "en": "Faqo'e",
+       "population": 9115
+      },
+      {
+       "ar": "صرفا",
+       "en": "Serfa",
+       "population": 6085
+      },
+      {
+       "ar": "امرع",
+       "en": "Emra",
+       "population": 3210
+      },
+      {
+       "ar": "الزهراء",
+       "en": "Zahra",
+       "population": 1872
+      },
+      {
+       "ar": "شحتور",
+       "en": "Shahtoor",
+       "population": 335
+      },
+      {
+       "ar": "مجدولين",
+       "en": "Majdoleen",
+       "population": 368
+      }
+     ]
+    },
+    {
+     "ar": "لواء القطرانة",
+     "en": "Qatraneh District",
+     "population": 13605,
+     "localities": [
+      {
+       "ar": "القطرانة",
+       "en": "Qatraneh",
+       "population": 8828
+      },
+      {
+       "ar": "سد السلطاني",
+       "en": "Sad El-Soltani",
+       "population": 3742
+      },
+      {
+       "ar": "الوادي الأبيض",
+       "en": "Wadi Abyadh",
+       "population": 1035
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "الطفيلة",
+   "en": "Tafilah",
+   "nominatim": "Tafilah Governorate, Jordan",
+   "aliases": [
+    "Tafilah Governorate",
+    "Tafila Governorate",
+    "At Tafilah",
+    "Tafilah",
+    "Tafila",
+    "محافظة الطفيلة",
+    "الطفيلة"
+   ],
+   "population": 120300,
+   "districts": [
+    {
+     "ar": "لواء قصبة الطفيلة",
+     "en": "Qasabah Tafilah District",
+     "population": 75965,
+     "localities": [
+      {
+       "ar": "العين البيضاء",
+       "en": "Ain El-Baidha",
+       "population": 13053
+      },
+      {
+       "ar": "العيص",
+       "en": "Ies",
+       "population": 12228
+      },
+      {
+       "ar": "عيمة",
+       "en": "Aimeh",
+       "population": 3226
+      },
+      {
+       "ar": "صنفحة",
+       "en": "Sanfahah",
+       "population": 567
+      },
+      {
+       "ar": "النمتة",
+       "en": "Namteh",
+       "population": 77
+      },
+      {
+       "ar": "أبو بنا",
+       "en": "Abu Banna",
+       "population": 1558
+      },
+      {
+       "ar": "شيظم",
+       "en": "Shaidham",
+       "population": 1182
+      },
+      {
+       "ar": "ارحاب",
+       "en": "Erhab",
+       "population": 885
+      },
+      {
+       "ar": "اضباعة",
+       "en": "Dhba'ah",
+       "population": 61
+      },
+      {
+       "ar": "مجادل",
+       "en": "Majadel",
+       "population": 1068
+      },
+      {
+       "ar": "صويميع",
+       "en": "Swaimie",
+       "population": 963
+      },
+      {
+       "ar": "عفرا",
+       "en": "Afra",
+       "population": 49
+      },
+      {
+       "ar": "عابور",
+       "en": "Aboor",
+       "population": 86
+      },
+      {
+       "ar": "تلعة حسين",
+       "en": "Tal'et Hussain",
+       "population": 566
+      },
+      {
+       "ar": "البربيطة",
+       "en": "Barbietah",
+       "population": 219
+      },
+      {
+       "ar": "اللعبان",
+       "en": "L'iban",
+       "population": 54
+      },
+      {
+       "ar": "الحرير",
+       "en": "Harier",
+       "population": 52
+      },
+      {
+       "ar": "ازحيقة",
+       "en": "Ezhaigah",
+       "population": 19
+      },
+      {
+       "ar": "زبدة",
+       "en": "Zabdah",
+       "population": 81
+      },
+      {
+       "ar": "الصيرة",
+       "en": "Sirah",
+       "population": 319
+      },
+      {
+       "ar": "جسر الشهداء",
+       "en": "Jeser El-Shohada'",
+       "population": 201
+      },
+      {
+       "ar": "نوخة",
+       "en": "Nokhah",
+       "population": 365
+      },
+      {
+       "ar": "عرفة",
+       "en": "Arafah",
+       "population": 1372
+      },
+      {
+       "ar": "عابل",
+       "en": "Abel",
+       "population": 933
+      },
+      {
+       "ar": "المعطن",
+       "en": "Mitan",
+       "population": 19
+      },
+      {
+       "ar": "ارويم",
+       "en": "Erwayyem",
+       "population": 2331
+      },
+      {
+       "ar": "الطفيلة",
+       "en": "Tafiela",
+       "population": 34431
+      }
+     ]
+    },
+    {
+     "ar": "لواء بصيرا",
+     "en": "Bsaira District",
+     "population": 31540,
+     "localities": [
+      {
+       "ar": "بصيرا",
+       "en": "Bsaira",
+       "population": 13227
+      },
+      {
+       "ar": "القادسية",
+       "en": "Qhadesiyeh",
+       "population": 10749
+      },
+      {
+       "ar": "غرندل",
+       "en": "Gharandal",
+       "population": 5847
+      },
+      {
+       "ar": "الرشادية",
+       "en": "Rashadiyyeh",
+       "population": 645
+      },
+      {
+       "ar": "أم سراب",
+       "en": "Um Essarab",
+       "population": 930
+      },
+      {
+       "ar": "ضانا",
+       "en": "Dhana",
+       "population": 39
+      },
+      {
+       "ar": "لحظة",
+       "en": "Lahdhah",
+       "population": 12
+      },
+      {
+       "ar": "قرقور",
+       "en": "Qarqoor",
+       "population": 91
+      }
+     ]
+    },
+    {
+     "ar": "لواء الحسا",
+     "en": "Hasa District",
+     "population": 12795,
+     "localities": [
+      {
+       "ar": "الحسا",
+       "en": "Hasa",
+       "population": 10098
+      },
+      {
+       "ar": "الجرف",
+       "en": "Jorof",
+       "population": 2697
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "معان",
+   "en": "Ma'an",
+   "nominatim": "Ma'an Governorate, Jordan",
+   "aliases": [
+    "Ma'an Governorate",
+    "Maan Governorate",
+    "Ma'an",
+    "Maan",
+    "محافظة معان",
+    "معان"
+   ],
+   "population": 197900,
+   "districts": [
+    {
+     "ar": "لواء قصبة معان",
+     "en": "Qasabah Ma'an District",
+     "population": 109625,
+     "subdistricts": [
+      {
+       "ar": "قضاء معان",
+       "en": "Ma'an Sub-District",
+       "population": 52090,
+       "localities": [
+        {
+         "ar": "دبة الكرم",
+         "en": "Dabit El-Karam",
+         "population": 193
+        },
+        {
+         "ar": "الطاحونة",
+         "en": "Tahooneh",
+         "population": 14
+        },
+        {
+         "ar": "محطة الجرذانة",
+         "en": "Mahatet Jerdaneh",
+         "population": 268
+        },
+        {
+         "ar": "سطح معان",
+         "en": "Sateh Ma'an",
+         "population": 248
+        },
+        {
+         "ar": "معان",
+         "en": "Ma'an",
+         "population": 51367
+        }
+       ]
+      },
+      {
+       "ar": "قضاء إيل",
+       "en": "Iel Sub-District",
+       "population": 18920,
+       "localities": [
+        {
+         "ar": "إيل",
+         "en": "Iel",
+         "population": 2805
+        },
+        {
+         "ar": "روضة الأمير راشد (القاع)",
+         "en": "Raudet El-Amir Rashed (Qa')",
+         "population": 4335
+        },
+        {
+         "ar": "بسطة",
+         "en": "Basta",
+         "population": 4279
+        },
+        {
+         "ar": "الفرذخ",
+         "en": "Fardakh",
+         "population": 2523
+        },
+        {
+         "ar": "اوهيدة",
+         "en": "Auhadah",
+         "population": 1818
+        },
+        {
+         "ar": "بير أبو دنة",
+         "en": "Beir Abu Dnneh",
+         "population": 1680
+        },
+        {
+         "ar": "الصدقة",
+         "en": "Sadafeh",
+         "population": 1259
+        },
+        {
+         "ar": "بير البيطار",
+         "en": "Beir El-Bietar",
+         "population": 221
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الجفر",
+       "en": "Jafr Sub-District",
+       "population": 9760,
+       "localities": [
+        {
+         "ar": "الجفر",
+         "en": "Jafr",
+         "population": 7991
+        },
+        {
+         "ar": "المدورة",
+         "en": "Modawwarah",
+         "population": 864
+        },
+        {
+         "ar": "الشيدية",
+         "en": "Shadeiah",
+         "population": 897
+        },
+        {
+         "ar": "بطن الغول",
+         "en": "Batn El-Ghool",
+         "population": 8
+        }
+       ]
+      },
+      {
+       "ar": "قضاء المريغة",
+       "en": "Mraighah Sub-District",
+       "population": 18390,
+       "localities": [
+        {
+         "ar": "المريغة",
+         "en": "Mraighah",
+         "population": 6506
+        },
+        {
+         "ar": "النقب",
+         "en": "Naqab",
+         "population": 914
+        },
+        {
+         "ar": "قرين",
+         "en": "Qurain",
+         "population": 2077
+        },
+        {
+         "ar": "أبو اللسن",
+         "en": "Abu El-Lissan",
+         "population": 2882
+        },
+        {
+         "ar": "سويمرة",
+         "en": "Swaimreh",
+         "population": 1617
+        },
+        {
+         "ar": "طاسان",
+         "en": "Tasan",
+         "population": 1177
+        },
+        {
+         "ar": "القاسمية",
+         "en": "Qasemeah",
+         "population": 646
+        },
+        {
+         "ar": "الثغرة",
+         "en": "Thugra",
+         "population": 311
+        },
+        {
+         "ar": "الفيصلية",
+         "en": "Faisaleah",
+         "population": 2009
+        },
+        {
+         "ar": "النقب الغربي",
+         "en": "Naqab El-Gharbi",
+         "population": 8
+        },
+        {
+         "ar": "الحياض",
+         "en": "Haiad",
+         "population": 243
+        }
+       ]
+      },
+      {
+       "ar": "قضاء أذرح",
+       "en": "Athroh Sub-District",
+       "population": 10465,
+       "localities": [
+        {
+         "ar": "أذرح",
+         "en": "Athroh",
+         "population": 2124
+        },
+        {
+         "ar": "المنشية",
+         "en": "Manshiyyeh",
+         "population": 4944
+        },
+        {
+         "ar": "الجرباء الكبيرة",
+         "en": "Jarba Kbiereh",
+         "population": 1335
+        },
+        {
+         "ar": "المحمدية",
+         "en": "Mohammadiyyeh",
+         "population": 1211
+        },
+        {
+         "ar": "الطميعة",
+         "en": "Etmaiyah",
+         "population": 190
+        },
+        {
+         "ar": "الجرباء الصغيرة",
+         "en": "Jarba Sghiereh",
+         "population": 389
+        },
+        {
+         "ar": "بير أبو العلق",
+         "en": "Bair Abu Alaq",
+         "population": 52
+        },
+        {
+         "ar": "الأشعري",
+         "en": "Ashari",
+         "population": 220
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء البتراء",
+     "en": "Petra District",
+     "population": 42495,
+     "localities": [
+      {
+       "ar": "وادي موسى",
+       "en": "Wadi Moosa",
+       "population": 14641
+      },
+      {
+       "ar": "الطيبة",
+       "en": "Taybah",
+       "population": 12317
+      },
+      {
+       "ar": "الراجف",
+       "en": "Rajef",
+       "population": 5154
+      },
+      {
+       "ar": "دلاغة",
+       "en": "Dlaghah",
+       "population": 2936
+      },
+      {
+       "ar": "أم صيحون",
+       "en": "Um Sehoon",
+       "population": 4537
+      },
+      {
+       "ar": "البيضا",
+       "en": "Baida",
+       "population": 1052
+      },
+      {
+       "ar": "الحي",
+       "en": "Hayy",
+       "population": 4
+      },
+      {
+       "ar": "المديرج",
+       "en": "Madarej",
+       "population": 414
+      },
+      {
+       "ar": "عين أمون",
+       "en": "Ain Ammoon",
+       "population": 116
+      },
+      {
+       "ar": "الذروة",
+       "en": "Tharwah",
+       "population": 506
+      },
+      {
+       "ar": "الرسيس",
+       "en": "Rassees",
+       "population": 724
+      },
+      {
+       "ar": "خربة أم الطليان",
+       "en": "Kerbet Um Ettelian",
+       "population": 94
+      }
+     ]
+    },
+    {
+     "ar": "لواء الشوبك",
+     "en": "Shobak District",
+     "population": 24115,
+     "localities": [
+      {
+       "ar": "الشوبك",
+       "en": "Shobak",
+       "population": 5348
+      },
+      {
+       "ar": "الزبيرية",
+       "en": "Zobeiriyyeh",
+       "population": 1955
+      },
+      {
+       "ar": "المثلث",
+       "en": "Mothallath",
+       "population": 3063
+      },
+      {
+       "ar": "المنصورة",
+       "en": "Mansoorah",
+       "population": 1071
+      },
+      {
+       "ar": "المقارعية",
+       "en": "Maqari'yyeh",
+       "population": 375
+      },
+      {
+       "ar": "الجهير",
+       "en": "Jhair",
+       "population": 1143
+      },
+      {
+       "ar": "بئر الدباغات",
+       "en": "Beir El-Dabbaghat",
+       "population": 1981
+      },
+      {
+       "ar": "بير خداد",
+       "en": "Beir Khadad",
+       "population": 1686
+      },
+      {
+       "ar": "حوالة",
+       "en": "Hawaleh",
+       "population": 2309
+      },
+      {
+       "ar": "الحدادة",
+       "en": "Haddadah",
+       "population": 488
+      },
+      {
+       "ar": "الفيصلية (مضيبيع)",
+       "en": "Faisaleh (mdhaibie)",
+       "population": 1101
+      },
+      {
+       "ar": "الزيتونة",
+       "en": "Zaitoneh",
+       "population": 156
+      },
+      {
+       "ar": "أبو مخطوب",
+       "en": "Abu Makhtoob",
+       "population": 215
+      },
+      {
+       "ar": "الجاية",
+       "en": "Jayyeh",
+       "population": 88
+      },
+      {
+       "ar": "شماخ",
+       "en": "Shammakh",
+       "population": 3136
+      }
+     ]
+    },
+    {
+     "ar": "لواء الحسينية",
+     "en": "Huseiniya District",
+     "population": 21665,
+     "localities": [
+      {
+       "ar": "الحسينية",
+       "en": "Huseiniya",
+       "population": 15867
+      },
+      {
+       "ar": "الهاشمية",
+       "en": "Hashemiyyeh",
+       "population": 5758
+      },
+      {
+       "ar": "عنيزة",
+       "en": "Enaizeh",
+       "population": 40
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "ar": "العقبة",
+   "en": "Aqaba",
+   "nominatim": "Aqaba Governorate, Jordan",
+   "aliases": [
+    "Aqaba Governorate",
+    "Aqaba",
+    "محافظة العقبة",
+    "العقبة"
+   ],
+   "population": 250900,
+   "districts": [
+    {
+     "ar": "لواء قصبة العقبة",
+     "en": "Qasabah Aqaba District",
+     "population": 212230,
+     "subdistricts": [
+      {
+       "ar": "مركز لواء العقبة",
+       "en": "Aqaba District Center",
+       "population": 202220,
+       "localities": [
+        {
+         "ar": "العقبة",
+         "en": "Aqaba",
+         "population": 201739
+        },
+        {
+         "ar": "الدرة",
+         "en": "Aldorah",
+         "population": 12
+        },
+        {
+         "ar": "المزفر",
+         "en": "Mezfer",
+         "population": 204
+        },
+        {
+         "ar": "تتن",
+         "en": "Teten",
+         "population": 265
+        }
+       ]
+      },
+      {
+       "ar": "قضاء وادي عربة",
+       "en": "Wadi Araba Sub-District",
+       "population": 10010,
+       "localities": [
+        {
+         "ar": "الريشة",
+         "en": "Reisheh",
+         "population": 3095
+        },
+        {
+         "ar": "القريقرة",
+         "en": "Qraiqreh",
+         "population": 3137
+        },
+        {
+         "ar": "رحمة",
+         "en": "Rahmah",
+         "population": 1766
+        },
+        {
+         "ar": "بئر مذكور",
+         "en": "Beir Mathkoor",
+         "population": 1219
+        },
+        {
+         "ar": "قطر",
+         "en": "Qatar",
+         "population": 214
+        },
+        {
+         "ar": "فينان",
+         "en": "Fienan",
+         "population": 481
+        },
+        {
+         "ar": "غرندل",
+         "en": "Grandal",
+         "population": 98
+        },
+        {
+         "ar": "المقرح",
+         "en": "Almaqrah",
+         "population": 0
+        },
+        {
+         "ar": "طابا",
+         "en": "Taba",
+         "population": 0
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ar": "لواء القويرة",
+     "en": "Quairah District",
+     "population": 38670,
+     "subdistricts": [
+      {
+       "ar": "مركز لواء القويرة",
+       "en": "Quairah District Center",
+       "population": 29005,
+       "localities": [
+        {
+         "ar": "القويرة",
+         "en": "Quairah",
+         "population": 12756
+        },
+        {
+         "ar": "الراشدية",
+         "en": "Rashdyah",
+         "population": 6798
+        },
+        {
+         "ar": "رم",
+         "en": "Rum",
+         "population": 2834
+        },
+        {
+         "ar": "الحميمة الجديدة",
+         "en": "Hmaimieh Jadiedeh",
+         "population": 3324
+        },
+        {
+         "ar": "دبة حانوت",
+         "en": "Dabbet Hanoot",
+         "population": 1900
+        },
+        {
+         "ar": "الشاكرية",
+         "en": "Shakriyyeh",
+         "population": 401
+        },
+        {
+         "ar": "الصالحية",
+         "en": "Sallheiah",
+         "population": 453
+        },
+        {
+         "ar": "العسلية",
+         "en": "Asaleah",
+         "population": 529
+        },
+        {
+         "ar": "عين الهوارة",
+         "en": "Ean Hawara",
+         "population": 10
+        },
+        {
+         "ar": "الحميمة",
+         "en": "Hmaimieh",
+         "population": 0
+        }
+       ]
+      },
+      {
+       "ar": "قضاء الديسة",
+       "en": "Diesah Sub-District",
+       "population": 9665,
+       "localities": [
+        {
+         "ar": "الديسة",
+         "en": "Diesah",
+         "population": 4804
+        },
+        {
+         "ar": "الطويسة",
+         "en": "Twaiseh",
+         "population": 3088
+        },
+        {
+         "ar": "منيشير",
+         "en": "Mnaishier",
+         "population": 1143
+        },
+        {
+         "ar": "الطويل",
+         "en": "Taweel",
+         "population": 166
+        },
+        {
+         "ar": "الغال",
+         "en": "Ghal",
+         "population": 464
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
